@@ -1,0 +1,2980 @@
+{
+  "queries": [
+    {
+      "title": "101",
+      "text": "design of the star wars anti missile defense system",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "defense"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "system"
+        },
+        {
+          "weight": "1",
+          "feature": "missile"
+        },
+        {
+          "weight": "1",
+          "feature": "anti"
+        },
+        {
+          "weight": "1",
+          "feature": "star"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "wars"
+        },
+        {
+          "weight": "1",
+          "feature": "design"
+        }
+      ]
+    },
+    {
+      "title": "102",
+      "text": "laser research applicable to the us s strategic defense initiative",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "defense"
+        },
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "laser"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "applicable"
+        },
+        {
+          "weight": "1",
+          "feature": "strategic"
+        },
+        {
+          "weight": "1",
+          "feature": "research"
+        },
+        {
+          "weight": "1",
+          "feature": "initiative"
+        }
+      ]
+    },
+    {
+      "title": "103",
+      "text": "welfare reform",
+      "epoch": "574992000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "reform"
+        },
+        {
+          "weight": "1",
+          "feature": "welfare"
+        }
+      ]
+    },
+    {
+      "title": "104",
+      "text": "catastrophic health insurance",
+      "epoch": "577152000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "insurance"
+        },
+        {
+          "weight": "1",
+          "feature": "catastrophic"
+        },
+        {
+          "weight": "1",
+          "feature": "health"
+        }
+      ]
+    },
+    {
+      "title": "105",
+      "text": "black monday",
+      "epoch": "576028800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "monday"
+        },
+        {
+          "weight": "1",
+          "feature": "black"
+        }
+      ]
+    },
+    {
+      "title": "106",
+      "text": "us control of insider trading",
+      "epoch": "574646400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "control"
+        },
+        {
+          "weight": "1",
+          "feature": "insider"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "trading"
+        }
+      ]
+    },
+    {
+      "title": "107",
+      "text": "japanese regulation of insider trading",
+      "epoch": "574646400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "insider"
+        },
+        {
+          "weight": "1",
+          "feature": "regulation"
+        },
+        {
+          "weight": "1",
+          "feature": "japanese"
+        },
+        {
+          "weight": "1",
+          "feature": "trading"
+        }
+      ]
+    },
+    {
+      "title": "108",
+      "text": "japanese protectionist measures",
+      "epoch": "574560000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "protectionist"
+        },
+        {
+          "weight": "1",
+          "feature": "measures"
+        },
+        {
+          "weight": "1",
+          "feature": "japanese"
+        }
+      ]
+    },
+    {
+      "title": "109",
+      "text": "find innovative companies",
+      "epoch": "586224000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "companies"
+        },
+        {
+          "weight": "1",
+          "feature": "innovative"
+        },
+        {
+          "weight": "1",
+          "feature": "find"
+        }
+      ]
+    },
+    {
+      "title": "110",
+      "text": "topic black resistance against the south african government",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "topic"
+        },
+        {
+          "weight": "1",
+          "feature": "african"
+        },
+        {
+          "weight": "1",
+          "feature": "against"
+        },
+        {
+          "weight": "1",
+          "feature": "south"
+        },
+        {
+          "weight": "1",
+          "feature": "resistance"
+        },
+        {
+          "weight": "1",
+          "feature": "government"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "black"
+        }
+      ]
+    },
+    {
+      "title": "111",
+      "text": "nuclear proliferation",
+      "epoch": "576374400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "proliferation"
+        },
+        {
+          "weight": "1",
+          "feature": "nuclear"
+        }
+      ]
+    },
+    {
+      "title": "112",
+      "text": "funding biotechnology",
+      "epoch": "583200000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "biotechnology"
+        },
+        {
+          "weight": "1",
+          "feature": "funding"
+        }
+      ]
+    },
+    {
+      "title": "113",
+      "text": "new space satellite applications",
+      "epoch": "579312000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "satellite"
+        },
+        {
+          "weight": "1",
+          "feature": "new"
+        },
+        {
+          "weight": "1",
+          "feature": "applications"
+        },
+        {
+          "weight": "1",
+          "feature": "space"
+        }
+      ]
+    },
+    {
+      "title": "114",
+      "text": "non commercial satellite launches",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "launches"
+        },
+        {
+          "weight": "1",
+          "feature": "satellite"
+        },
+        {
+          "weight": "1",
+          "feature": "commercial"
+        },
+        {
+          "weight": "1",
+          "feature": "non"
+        }
+      ]
+    },
+    {
+      "title": "115",
+      "text": "impact of the 1986 immigration law",
+      "epoch": "575337600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "law"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "1986"
+        },
+        {
+          "weight": "1",
+          "feature": "immigration"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "impact"
+        }
+      ]
+    },
+    {
+      "title": "116",
+      "text": "generic drug substitutions",
+      "epoch": "580953600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "generic"
+        },
+        {
+          "weight": "1",
+          "feature": "substitutions"
+        },
+        {
+          "weight": "1",
+          "feature": "drug"
+        }
+      ]
+    },
+    {
+      "title": "117",
+      "text": "capacity of the us cellular telephone network",
+      "epoch": "579744000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cellular"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "capacity"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "telephone"
+        },
+        {
+          "weight": "1",
+          "feature": "network"
+        }
+      ]
+    },
+    {
+      "title": "118",
+      "text": "international terrorists",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "terrorists"
+        },
+        {
+          "weight": "1",
+          "feature": "international"
+        }
+      ]
+    },
+    {
+      "title": "119",
+      "text": "actions against international terrorists",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "terrorists"
+        },
+        {
+          "weight": "1",
+          "feature": "against"
+        },
+        {
+          "weight": "1",
+          "feature": "international"
+        },
+        {
+          "weight": "1",
+          "feature": "actions"
+        }
+      ]
+    },
+    {
+      "title": "120",
+      "text": "economic impact of international terrorism",
+      "epoch": "577238400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "terrorism"
+        },
+        {
+          "weight": "1",
+          "feature": "international"
+        },
+        {
+          "weight": "1",
+          "feature": "impact"
+        },
+        {
+          "weight": "1",
+          "feature": "economic"
+        }
+      ]
+    },
+    {
+      "title": "121",
+      "text": "death from cancer",
+      "epoch": "574300800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "death"
+        },
+        {
+          "weight": "1",
+          "feature": "from"
+        },
+        {
+          "weight": "1",
+          "feature": "cancer"
+        }
+      ]
+    },
+    {
+      "title": "122",
+      "text": "rdt e of new cancer fighting drugs",
+      "epoch": "579571200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "rdt"
+        },
+        {
+          "weight": "1",
+          "feature": "new"
+        },
+        {
+          "weight": "1",
+          "feature": "e"
+        },
+        {
+          "weight": "1",
+          "feature": "drugs"
+        },
+        {
+          "weight": "1",
+          "feature": "fighting"
+        },
+        {
+          "weight": "1",
+          "feature": "cancer"
+        }
+      ]
+    },
+    {
+      "title": "123",
+      "text": "research into control of carcinogens",
+      "epoch": "574214400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "carcinogens"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "control"
+        },
+        {
+          "weight": "1",
+          "feature": "into"
+        },
+        {
+          "weight": "1",
+          "feature": "research"
+        }
+      ]
+    },
+    {
+      "title": "124",
+      "text": "alternatives to traditional cancer therapies",
+      "epoch": "575596800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "alternatives"
+        },
+        {
+          "weight": "1",
+          "feature": "traditional"
+        },
+        {
+          "weight": "1",
+          "feature": "therapies"
+        },
+        {
+          "weight": "1",
+          "feature": "cancer"
+        }
+      ]
+    },
+    {
+      "title": "125",
+      "text": "anti smoking actions by government",
+      "epoch": "574992000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "anti"
+        },
+        {
+          "weight": "1",
+          "feature": "smoking"
+        },
+        {
+          "weight": "1",
+          "feature": "by"
+        },
+        {
+          "weight": "1",
+          "feature": "government"
+        },
+        {
+          "weight": "1",
+          "feature": "actions"
+        }
+      ]
+    },
+    {
+      "title": "126",
+      "text": "medical ethics and modern technology",
+      "epoch": "574214400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "modern"
+        },
+        {
+          "weight": "1",
+          "feature": "technology"
+        },
+        {
+          "weight": "1",
+          "feature": "medical"
+        },
+        {
+          "weight": "1",
+          "feature": "ethics"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "127",
+      "text": "us ussr arms control agreements",
+      "epoch": "574646400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "control"
+        },
+        {
+          "weight": "1",
+          "feature": "agreements"
+        },
+        {
+          "weight": "1",
+          "feature": "arms"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "ussr"
+        }
+      ]
+    },
+    {
+      "title": "128",
+      "text": "privatization of state assets",
+      "epoch": "574560000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "assets"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "state"
+        },
+        {
+          "weight": "1",
+          "feature": "privatization"
+        }
+      ]
+    },
+    {
+      "title": "129",
+      "text": "soviet spying on the us",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "spying"
+        },
+        {
+          "weight": "1",
+          "feature": "soviet"
+        },
+        {
+          "weight": "1",
+          "feature": "on"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        }
+      ]
+    },
+    {
+      "title": "130",
+      "text": "jewish emigration and us ussr relations",
+      "epoch": "574819200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "jewish"
+        },
+        {
+          "weight": "1",
+          "feature": "relations"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "ussr"
+        },
+        {
+          "weight": "1",
+          "feature": "emigration"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "131",
+      "text": "mcdonnell douglas contracts for military aircraft",
+      "epoch": "584496000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mcdonnell"
+        },
+        {
+          "weight": "1",
+          "feature": "for"
+        },
+        {
+          "weight": "1",
+          "feature": "douglas"
+        },
+        {
+          "weight": "1",
+          "feature": "aircraft"
+        },
+        {
+          "weight": "1",
+          "feature": "contracts"
+        },
+        {
+          "weight": "1",
+          "feature": "military"
+        }
+      ]
+    },
+    {
+      "title": "132",
+      "text": "stealth aircraft",
+      "epoch": "575251200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "aircraft"
+        },
+        {
+          "weight": "1",
+          "feature": "stealth"
+        }
+      ]
+    },
+    {
+      "title": "133",
+      "text": "hubble space telescope",
+      "epoch": "589680000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hubble"
+        },
+        {
+          "weight": "1",
+          "feature": "telescope"
+        },
+        {
+          "weight": "1",
+          "feature": "space"
+        }
+      ]
+    },
+    {
+      "title": "134",
+      "text": "the human genome project",
+      "epoch": "580003200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "project"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "genome"
+        },
+        {
+          "weight": "1",
+          "feature": "human"
+        }
+      ]
+    },
+    {
+      "title": "135",
+      "text": "possible contributions of gene mapping to medicine",
+      "epoch": "576720000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "gene"
+        },
+        {
+          "weight": "1",
+          "feature": "possible"
+        },
+        {
+          "weight": "1",
+          "feature": "mapping"
+        },
+        {
+          "weight": "1",
+          "feature": "medicine"
+        },
+        {
+          "weight": "1",
+          "feature": "contributions"
+        }
+      ]
+    },
+    {
+      "title": "136",
+      "text": "diversification by pacific telesis",
+      "epoch": "605836800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "telesis"
+        },
+        {
+          "weight": "1",
+          "feature": "pacific"
+        },
+        {
+          "weight": "1",
+          "feature": "by"
+        },
+        {
+          "weight": "1",
+          "feature": "diversification"
+        }
+      ]
+    },
+    {
+      "title": "137",
+      "text": "expansion in the us theme park industry",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "expansion"
+        },
+        {
+          "weight": "1",
+          "feature": "park"
+        },
+        {
+          "weight": "1",
+          "feature": "theme"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "industry"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        }
+      ]
+    },
+    {
+      "title": "138",
+      "text": "iranian support for lebanese hostage takers",
+      "epoch": "581472000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "takers"
+        },
+        {
+          "weight": "1",
+          "feature": "support"
+        },
+        {
+          "weight": "1",
+          "feature": "for"
+        },
+        {
+          "weight": "1",
+          "feature": "hostage"
+        },
+        {
+          "weight": "1",
+          "feature": "iranian"
+        },
+        {
+          "weight": "1",
+          "feature": "lebanese"
+        }
+      ]
+    },
+    {
+      "title": "139",
+      "text": "iran s islamic revolution domestic and foreign social",
+      "epoch": "578448000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "iran"
+        },
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "social"
+        },
+        {
+          "weight": "1",
+          "feature": "islamic"
+        },
+        {
+          "weight": "1",
+          "feature": "revolution"
+        },
+        {
+          "weight": "1",
+          "feature": "foreign"
+        },
+        {
+          "weight": "1",
+          "feature": "domestic"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "140",
+      "text": "political impact of islamic fundamentalism",
+      "epoch": "583977600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fundamentalism"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "political"
+        },
+        {
+          "weight": "1",
+          "feature": "islamic"
+        },
+        {
+          "weight": "1",
+          "feature": "impact"
+        }
+      ]
+    },
+    {
+      "title": "141",
+      "text": "japan s handling of its trade surplus with the us",
+      "epoch": "578966400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "with"
+        },
+        {
+          "weight": "1",
+          "feature": "japan"
+        },
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "trade"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "its"
+        },
+        {
+          "weight": "1",
+          "feature": "surplus"
+        },
+        {
+          "weight": "1",
+          "feature": "handling"
+        }
+      ]
+    },
+    {
+      "title": "142",
+      "text": "impact of government regulated grain farming on international",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "grain"
+        },
+        {
+          "weight": "1",
+          "feature": "international"
+        },
+        {
+          "weight": "1",
+          "feature": "on"
+        },
+        {
+          "weight": "1",
+          "feature": "regulated"
+        },
+        {
+          "weight": "1",
+          "feature": "government"
+        },
+        {
+          "weight": "1",
+          "feature": "farming"
+        },
+        {
+          "weight": "1",
+          "feature": "impact"
+        }
+      ]
+    },
+    {
+      "title": "143",
+      "text": "why protect us farmers",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "farmers"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "protect"
+        },
+        {
+          "weight": "1",
+          "feature": "why"
+        }
+      ]
+    },
+    {
+      "title": "144",
+      "text": "management problems at the united nations",
+      "epoch": "575337600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "united"
+        },
+        {
+          "weight": "1",
+          "feature": "problems"
+        },
+        {
+          "weight": "1",
+          "feature": "at"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "nations"
+        },
+        {
+          "weight": "1",
+          "feature": "management"
+        }
+      ]
+    },
+    {
+      "title": "145",
+      "text": "influence of the pro israel lobby",
+      "epoch": "574905600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "lobby"
+        },
+        {
+          "weight": "1",
+          "feature": "pro"
+        },
+        {
+          "weight": "1",
+          "feature": "influence"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "israel"
+        }
+      ]
+    },
+    {
+      "title": "146",
+      "text": "negotiating an end to the nicaraguan civil war",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "nicaraguan"
+        },
+        {
+          "weight": "1",
+          "feature": "negotiating"
+        },
+        {
+          "weight": "1",
+          "feature": "an"
+        },
+        {
+          "weight": "1",
+          "feature": "civil"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "war"
+        },
+        {
+          "weight": "1",
+          "feature": "end"
+        }
+      ]
+    },
+    {
+      "title": "147",
+      "text": "productivity trends in the us economy",
+      "epoch": "574560000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "trends"
+        },
+        {
+          "weight": "1",
+          "feature": "economy"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        },
+        {
+          "weight": "1",
+          "feature": "productivity"
+        }
+      ]
+    },
+    {
+      "title": "148",
+      "text": "conflict in the horn of africa",
+      "epoch": "576547200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "horn"
+        },
+        {
+          "weight": "1",
+          "feature": "conflict"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "africa"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        }
+      ]
+    },
+    {
+      "title": "149",
+      "text": "industrial espionage",
+      "epoch": "574473600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "espionage"
+        },
+        {
+          "weight": "1",
+          "feature": "industrial"
+        }
+      ]
+    },
+    {
+      "title": "150",
+      "text": "us political campaign financing",
+      "epoch": "574300800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "financing"
+        },
+        {
+          "weight": "1",
+          "feature": "political"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "campaign"
+        }
+      ]
+    },
+    {
+      "title": "151",
+      "text": "coping with overcrowded prisons",
+      "epoch": "582336000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "prisons"
+        },
+        {
+          "weight": "1",
+          "feature": "with"
+        },
+        {
+          "weight": "1",
+          "feature": "overcrowded"
+        },
+        {
+          "weight": "1",
+          "feature": "coping"
+        }
+      ]
+    },
+    {
+      "title": "152",
+      "text": "accusations of cheating by contractors on us defense projects",
+      "epoch": "574732800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "projects"
+        },
+        {
+          "weight": "1",
+          "feature": "defense"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "on"
+        },
+        {
+          "weight": "1",
+          "feature": "contractors"
+        },
+        {
+          "weight": "1",
+          "feature": "accusations"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "by"
+        },
+        {
+          "weight": "1",
+          "feature": "cheating"
+        }
+      ]
+    },
+    {
+      "title": "153",
+      "text": "insurance coverage which pays for long term care",
+      "epoch": "576892800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "insurance"
+        },
+        {
+          "weight": "1",
+          "feature": "which"
+        },
+        {
+          "weight": "1",
+          "feature": "term"
+        },
+        {
+          "weight": "1",
+          "feature": "for"
+        },
+        {
+          "weight": "1",
+          "feature": "coverage"
+        },
+        {
+          "weight": "1",
+          "feature": "care"
+        },
+        {
+          "weight": "1",
+          "feature": "pays"
+        },
+        {
+          "weight": "1",
+          "feature": "long"
+        }
+      ]
+    },
+    {
+      "title": "154",
+      "text": "oil spills",
+      "epoch": "575510400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "spills"
+        },
+        {
+          "weight": "1",
+          "feature": "oil"
+        }
+      ]
+    },
+    {
+      "title": "155",
+      "text": "right wing christian fundamentalism in us",
+      "epoch": "574300800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fundamentalism"
+        },
+        {
+          "weight": "1",
+          "feature": "christian"
+        },
+        {
+          "weight": "1",
+          "feature": "wing"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        },
+        {
+          "weight": "1",
+          "feature": "right"
+        }
+      ]
+    },
+    {
+      "title": "156",
+      "text": "efforts to enact gun control legislation",
+      "epoch": "574560000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "control"
+        },
+        {
+          "weight": "1",
+          "feature": "efforts"
+        },
+        {
+          "weight": "1",
+          "feature": "legislation"
+        },
+        {
+          "weight": "1",
+          "feature": "enact"
+        },
+        {
+          "weight": "1",
+          "feature": "gun"
+        }
+      ]
+    },
+    {
+      "title": "157",
+      "text": "causes and treatments of multiple sclerosis ms",
+      "epoch": "581212800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "ms"
+        },
+        {
+          "weight": "1",
+          "feature": "sclerosis"
+        },
+        {
+          "weight": "1",
+          "feature": "multiple"
+        },
+        {
+          "weight": "1",
+          "feature": "causes"
+        },
+        {
+          "weight": "1",
+          "feature": "treatments"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "158",
+      "text": "term limitations for members of the us congress",
+      "epoch": "591062400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "congress"
+        },
+        {
+          "weight": "1",
+          "feature": "for"
+        },
+        {
+          "weight": "1",
+          "feature": "term"
+        },
+        {
+          "weight": "1",
+          "feature": "limitations"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "members"
+        }
+      ]
+    },
+    {
+      "title": "159",
+      "text": "electric car development",
+      "epoch": "597196800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "car"
+        },
+        {
+          "weight": "1",
+          "feature": "development"
+        },
+        {
+          "weight": "1",
+          "feature": "electric"
+        }
+      ]
+    },
+    {
+      "title": "160",
+      "text": "vitamins the cure for or cause of human ailments",
+      "epoch": "575856000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "cause"
+        },
+        {
+          "weight": "1",
+          "feature": "vitamins"
+        },
+        {
+          "weight": "1",
+          "feature": "for"
+        },
+        {
+          "weight": "1",
+          "feature": "or"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "cure"
+        },
+        {
+          "weight": "1",
+          "feature": "ailments"
+        },
+        {
+          "weight": "1",
+          "feature": "human"
+        }
+      ]
+    },
+    {
+      "title": "161",
+      "text": "acid rain",
+      "epoch": "574819200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "acid"
+        },
+        {
+          "weight": "1",
+          "feature": "rain"
+        }
+      ]
+    },
+    {
+      "title": "162",
+      "text": "automobile recalls",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "automobile"
+        },
+        {
+          "weight": "1",
+          "feature": "recalls"
+        }
+      ]
+    },
+    {
+      "title": "163",
+      "text": "vietnam veterans and agent orange",
+      "epoch": "577324800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "orange"
+        },
+        {
+          "weight": "1",
+          "feature": "veterans"
+        },
+        {
+          "weight": "1",
+          "feature": "vietnam"
+        },
+        {
+          "weight": "1",
+          "feature": "agent"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "164",
+      "text": "generic drugs illegal activities by manufacturers",
+      "epoch": "577065600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "generic"
+        },
+        {
+          "weight": "1",
+          "feature": "illegal"
+        },
+        {
+          "weight": "1",
+          "feature": "drugs"
+        },
+        {
+          "weight": "1",
+          "feature": "manufacturers"
+        },
+        {
+          "weight": "1",
+          "feature": "by"
+        },
+        {
+          "weight": "1",
+          "feature": "activities"
+        }
+      ]
+    },
+    {
+      "title": "165",
+      "text": "tobacco company advertising and the young",
+      "epoch": "574214400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "company"
+        },
+        {
+          "weight": "1",
+          "feature": "advertising"
+        },
+        {
+          "weight": "1",
+          "feature": "tobacco"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "young"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "166",
+      "text": "standardized testing and cultural bias",
+      "epoch": "579398400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cultural"
+        },
+        {
+          "weight": "1",
+          "feature": "testing"
+        },
+        {
+          "weight": "1",
+          "feature": "bias"
+        },
+        {
+          "weight": "1",
+          "feature": "standardized"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "167",
+      "text": "regulation of the showing of violence and explicit sex in motion picture theaters on television and on video cassettes",
+      "epoch": "575596800",
+      "model": [
+        {
+          "weight": "2",
+          "feature": "and"
+        },
+        {
+          "weight": "2",
+          "feature": "of"
+        },
+        {
+          "weight": "2",
+          "feature": "on"
+        },
+        {
+          "weight": "1",
+          "feature": "television"
+        },
+        {
+          "weight": "1",
+          "feature": "sex"
+        },
+        {
+          "weight": "1",
+          "feature": "violence"
+        },
+        {
+          "weight": "1",
+          "feature": "theaters"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        },
+        {
+          "weight": "1",
+          "feature": "picture"
+        },
+        {
+          "weight": "1",
+          "feature": "explicit"
+        },
+        {
+          "weight": "1",
+          "feature": "cassettes"
+        },
+        {
+          "weight": "1",
+          "feature": "regulation"
+        },
+        {
+          "weight": "1",
+          "feature": "showing"
+        },
+        {
+          "weight": "1",
+          "feature": "motion"
+        },
+        {
+          "weight": "1",
+          "feature": "video"
+        }
+      ]
+    },
+    {
+      "title": "168",
+      "text": "financing amtrak",
+      "epoch": "574214400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "financing"
+        },
+        {
+          "weight": "1",
+          "feature": "amtrak"
+        }
+      ]
+    },
+    {
+      "title": "169",
+      "text": "cost of garbage trash removal",
+      "epoch": "579571200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "removal"
+        },
+        {
+          "weight": "1",
+          "feature": "trash"
+        },
+        {
+          "weight": "1",
+          "feature": "garbage"
+        },
+        {
+          "weight": "1",
+          "feature": "cost"
+        }
+      ]
+    },
+    {
+      "title": "170",
+      "text": "the consequences of implantation of silicone gel breast devices",
+      "epoch": "597715200",
+      "model": [
+        {
+          "weight": "2",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "breast"
+        },
+        {
+          "weight": "1",
+          "feature": "consequences"
+        },
+        {
+          "weight": "1",
+          "feature": "silicone"
+        },
+        {
+          "weight": "1",
+          "feature": "implantation"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "devices"
+        },
+        {
+          "weight": "1",
+          "feature": "gel"
+        }
+      ]
+    },
+    {
+      "title": "171",
+      "text": "use of mutual funds in an individual s retirement strategy",
+      "epoch": "576720000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "retirement"
+        },
+        {
+          "weight": "1",
+          "feature": "funds"
+        },
+        {
+          "weight": "1",
+          "feature": "mutual"
+        },
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "individual"
+        },
+        {
+          "weight": "1",
+          "feature": "an"
+        },
+        {
+          "weight": "1",
+          "feature": "strategy"
+        },
+        {
+          "weight": "1",
+          "feature": "use"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        }
+      ]
+    },
+    {
+      "title": "172",
+      "text": "the effectiveness of medical products and Related Programs Utilized in the Cessation of Smoking",
+      "epoch": "591667200",
+      "model": [
+        {
+          "weight": "2",
+          "feature": "of"
+        },
+        {
+          "weight": "2",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "programs"
+        },
+        {
+          "weight": "1",
+          "feature": "medical"
+        },
+        {
+          "weight": "1",
+          "feature": "effectiveness"
+        },
+        {
+          "weight": "1",
+          "feature": "smoking"
+        },
+        {
+          "weight": "1",
+          "feature": "utilized"
+        },
+        {
+          "weight": "1",
+          "feature": "cessation"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        },
+        {
+          "weight": "1",
+          "feature": "products"
+        },
+        {
+          "weight": "1",
+          "feature": "related"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "173",
+      "text": "smoking bans",
+      "epoch": "574387200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bans"
+        },
+        {
+          "weight": "1",
+          "feature": "smoking"
+        }
+      ]
+    },
+    {
+      "title": "174",
+      "text": "hazardous waste cleanup",
+      "epoch": "575078400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cleanup"
+        },
+        {
+          "weight": "1",
+          "feature": "waste"
+        },
+        {
+          "weight": "1",
+          "feature": "hazardous"
+        }
+      ]
+    },
+    {
+      "title": "175",
+      "text": "nra prevention of gun control legislation",
+      "epoch": "576633600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "control"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "nra"
+        },
+        {
+          "weight": "1",
+          "feature": "legislation"
+        },
+        {
+          "weight": "1",
+          "feature": "prevention"
+        },
+        {
+          "weight": "1",
+          "feature": "gun"
+        }
+      ]
+    },
+    {
+      "title": "176",
+      "text": "real life private investigators",
+      "epoch": "574128000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "real"
+        },
+        {
+          "weight": "1",
+          "feature": "life"
+        },
+        {
+          "weight": "1",
+          "feature": "investigators"
+        },
+        {
+          "weight": "1",
+          "feature": "private"
+        }
+      ]
+    },
+    {
+      "title": "177",
+      "text": "english as the official language in us",
+      "epoch": "576460800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "official"
+        },
+        {
+          "weight": "1",
+          "feature": "as"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "language"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        },
+        {
+          "weight": "1",
+          "feature": "english"
+        }
+      ]
+    },
+    {
+      "title": "178",
+      "text": "dog maulings",
+      "epoch": "576115200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dog"
+        },
+        {
+          "weight": "1",
+          "feature": "maulings"
+        }
+      ]
+    },
+    {
+      "title": "179",
+      "text": "u s restaurants in foreign lands",
+      "epoch": "574473600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "lands"
+        },
+        {
+          "weight": "1",
+          "feature": "u"
+        },
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "foreign"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        },
+        {
+          "weight": "1",
+          "feature": "restaurants"
+        }
+      ]
+    },
+    {
+      "title": "180",
+      "text": "ineffectiveness of us embargoes sanctions",
+      "epoch": "574387200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "ineffectiveness"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "sanctions"
+        },
+        {
+          "weight": "1",
+          "feature": "embargoes"
+        }
+      ]
+    },
+    {
+      "title": "181",
+      "text": "abuse of the elderly by family members and medical and Nonmedical Personnel and Initiatives Being Taken to Minimize This mistreatment",
+      "epoch": "575251200",
+      "model": [
+        {
+          "weight": "3",
+          "feature": "and"
+        },
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "initiatives"
+        },
+        {
+          "weight": "1",
+          "feature": "being"
+        },
+        {
+          "weight": "1",
+          "feature": "nonmedical"
+        },
+        {
+          "weight": "1",
+          "feature": "by"
+        },
+        {
+          "weight": "1",
+          "feature": "minimize"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "abuse"
+        },
+        {
+          "weight": "1",
+          "feature": "medical"
+        },
+        {
+          "weight": "1",
+          "feature": "personnel"
+        },
+        {
+          "weight": "1",
+          "feature": "family"
+        },
+        {
+          "weight": "1",
+          "feature": "taken"
+        },
+        {
+          "weight": "1",
+          "feature": "elderly"
+        },
+        {
+          "weight": "1",
+          "feature": "mistreatment"
+        },
+        {
+          "weight": "1",
+          "feature": "this"
+        },
+        {
+          "weight": "1",
+          "feature": "members"
+        }
+      ]
+    },
+    {
+      "title": "182",
+      "text": "commercial overfishing creates food fish deficit",
+      "epoch": "574992000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "deficit"
+        },
+        {
+          "weight": "1",
+          "feature": "overfishing"
+        },
+        {
+          "weight": "1",
+          "feature": "fish"
+        },
+        {
+          "weight": "1",
+          "feature": "food"
+        },
+        {
+          "weight": "1",
+          "feature": "creates"
+        },
+        {
+          "weight": "1",
+          "feature": "commercial"
+        }
+      ]
+    },
+    {
+      "title": "183",
+      "text": "asbestos related lawsuits",
+      "epoch": "575337600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "asbestos"
+        },
+        {
+          "weight": "1",
+          "feature": "lawsuits"
+        },
+        {
+          "weight": "1",
+          "feature": "related"
+        }
+      ]
+    },
+    {
+      "title": "184",
+      "text": "corporate pension plans funds",
+      "epoch": "587865600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "plans"
+        },
+        {
+          "weight": "1",
+          "feature": "funds"
+        },
+        {
+          "weight": "1",
+          "feature": "corporate"
+        },
+        {
+          "weight": "1",
+          "feature": "pension"
+        }
+      ]
+    },
+    {
+      "title": "185",
+      "text": "reform of the us welfare system",
+      "epoch": "574646400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "system"
+        },
+        {
+          "weight": "1",
+          "feature": "reform"
+        },
+        {
+          "weight": "1",
+          "feature": "welfare"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        }
+      ]
+    },
+    {
+      "title": "186",
+      "text": "difference of learning levels among inner City and More Suburban School Students",
+      "epoch": "575856000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "difference"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "students"
+        },
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "more"
+        },
+        {
+          "weight": "1",
+          "feature": "suburban"
+        },
+        {
+          "weight": "1",
+          "feature": "inner"
+        },
+        {
+          "weight": "1",
+          "feature": "levels"
+        },
+        {
+          "weight": "1",
+          "feature": "among"
+        },
+        {
+          "weight": "1",
+          "feature": "learning"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        },
+        {
+          "weight": "1",
+          "feature": "city"
+        }
+      ]
+    },
+    {
+      "title": "187",
+      "text": "signs of the demise of independent publishing",
+      "epoch": "574473600",
+      "model": [
+        {
+          "weight": "2",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "independent"
+        },
+        {
+          "weight": "1",
+          "feature": "signs"
+        },
+        {
+          "weight": "1",
+          "feature": "demise"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "publishing"
+        }
+      ]
+    },
+    {
+      "title": "188",
+      "text": "beachfront erosion",
+      "epoch": "577324800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "erosion"
+        },
+        {
+          "weight": "1",
+          "feature": "beachfront"
+        }
+      ]
+    },
+    {
+      "title": "189",
+      "text": "real motives for murder",
+      "epoch": "574473600",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "real"
+        },
+        {
+          "weight": "1",
+          "feature": "murder"
+        },
+        {
+          "weight": "1",
+          "feature": "for"
+        },
+        {
+          "weight": "1",
+          "feature": "motives"
+        }
+      ]
+    },
+    {
+      "title": "190",
+      "text": "instances of fraud involving the use of a computer",
+      "epoch": "575596800",
+      "model": [
+        {
+          "weight": "2",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "computer"
+        },
+        {
+          "weight": "1",
+          "feature": "a"
+        },
+        {
+          "weight": "1",
+          "feature": "involving"
+        },
+        {
+          "weight": "1",
+          "feature": "use"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "fraud"
+        },
+        {
+          "weight": "1",
+          "feature": "instances"
+        }
+      ]
+    },
+    {
+      "title": "191",
+      "text": "efforts to improve us schooling",
+      "epoch": "577843200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "efforts"
+        },
+        {
+          "weight": "1",
+          "feature": "schooling"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "improve"
+        }
+      ]
+    },
+    {
+      "title": "192",
+      "text": "oil spill cleanup",
+      "epoch": "575510400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cleanup"
+        },
+        {
+          "weight": "1",
+          "feature": "spill"
+        },
+        {
+          "weight": "1",
+          "feature": "oil"
+        }
+      ]
+    },
+    {
+      "title": "193",
+      "text": "toys r dangerous",
+      "epoch": "576547200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "r"
+        },
+        {
+          "weight": "1",
+          "feature": "toys"
+        },
+        {
+          "weight": "1",
+          "feature": "dangerous"
+        }
+      ]
+    },
+    {
+      "title": "194",
+      "text": "the amount of money earned by writers",
+      "epoch": "575251200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "amount"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "money"
+        },
+        {
+          "weight": "1",
+          "feature": "earned"
+        },
+        {
+          "weight": "1",
+          "feature": "writers"
+        },
+        {
+          "weight": "1",
+          "feature": "by"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        }
+      ]
+    },
+    {
+      "title": "195",
+      "text": "stock market perturbations attributable to Computer Initiated Trading",
+      "epoch": "574732800",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "computer"
+        },
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "market"
+        },
+        {
+          "weight": "1",
+          "feature": "stock"
+        },
+        {
+          "weight": "1",
+          "feature": "attributable"
+        },
+        {
+          "weight": "1",
+          "feature": "initiated"
+        },
+        {
+          "weight": "1",
+          "feature": "trading"
+        },
+        {
+          "weight": "1",
+          "feature": "perturbations"
+        }
+      ]
+    },
+    {
+      "title": "196",
+      "text": "school choice voucher system and its effects upon the entire U S educational program",
+      "epoch": "583027200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "choice"
+        },
+        {
+          "weight": "1",
+          "feature": "effects"
+        },
+        {
+          "weight": "1",
+          "feature": "its"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        },
+        {
+          "weight": "1",
+          "feature": "system"
+        },
+        {
+          "weight": "1",
+          "feature": "entire"
+        },
+        {
+          "weight": "1",
+          "feature": "u"
+        },
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "program"
+        },
+        {
+          "weight": "1",
+          "feature": "educational"
+        },
+        {
+          "weight": "1",
+          "feature": "voucher"
+        },
+        {
+          "weight": "1",
+          "feature": "upon"
+        }
+      ]
+    },
+    {
+      "title": "197",
+      "text": "reform of the jurisprudence system to stop juries from granting unreasonable monetary awards",
+      "epoch": "574646400",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "granting"
+        },
+        {
+          "weight": "1",
+          "feature": "stop"
+        },
+        {
+          "weight": "1",
+          "feature": "the"
+        },
+        {
+          "weight": "1",
+          "feature": "from"
+        },
+        {
+          "weight": "1",
+          "feature": "unreasonable"
+        },
+        {
+          "weight": "1",
+          "feature": "jurisprudence"
+        },
+        {
+          "weight": "1",
+          "feature": "juries"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "system"
+        },
+        {
+          "weight": "1",
+          "feature": "reform"
+        },
+        {
+          "weight": "1",
+          "feature": "awards"
+        },
+        {
+          "weight": "1",
+          "feature": "monetary"
+        }
+      ]
+    },
+    {
+      "title": "198",
+      "text": "gene therapy and its benefits to humankind",
+      "epoch": "574387200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "gene"
+        },
+        {
+          "weight": "1",
+          "feature": "benefits"
+        },
+        {
+          "weight": "1",
+          "feature": "its"
+        },
+        {
+          "weight": "1",
+          "feature": "humankind"
+        },
+        {
+          "weight": "1",
+          "feature": "therapy"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "199",
+      "text": "legality of medically assisted suicides",
+      "epoch": "575251200",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "assisted"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "legality"
+        },
+        {
+          "weight": "1",
+          "feature": "medically"
+        },
+        {
+          "weight": "1",
+          "feature": "suicides"
+        }
+      ]
+    },
+    {
+      "title": "200",
+      "text": "impact of foreign textile imports on us textile industry",
+      "epoch": "574387200",
+      "model": [
+        {
+          "weight": "2",
+          "feature": "textile"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "on"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "industry"
+        },
+        {
+          "weight": "1",
+          "feature": "foreign"
+        },
+        {
+          "weight": "1",
+          "feature": "imports"
+        },
+        {
+          "weight": "1",
+          "feature": "impact"
+        }
+      ]
+    }
+  ]
+}

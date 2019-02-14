@@ -1,0 +1,1662 @@
+{
+  "queries": [
+    {
+      "title": "451",
+      "text": "bengals cat",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cat"
+        },
+        {
+          "weight": "1",
+          "feature": "bengals"
+        }
+      ]
+    },
+    {
+      "title": "452",
+      "text": "beavers live salt water",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "water"
+        },
+        {
+          "weight": "1",
+          "feature": "beavers"
+        },
+        {
+          "weight": "1",
+          "feature": "salt"
+        },
+        {
+          "weight": "1",
+          "feature": "live"
+        }
+      ]
+    },
+    {
+      "title": "453",
+      "text": "hunger",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hunger"
+        }
+      ]
+    },
+    {
+      "title": "454",
+      "text": "parkinson disease",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "parkinson"
+        },
+        {
+          "weight": "1",
+          "feature": "disease"
+        }
+      ]
+    },
+    {
+      "title": "455",
+      "text": "whan jackie robinson appear first game",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "appear"
+        },
+        {
+          "weight": "1",
+          "feature": "whan"
+        },
+        {
+          "weight": "1",
+          "feature": "jackie"
+        },
+        {
+          "weight": "1",
+          "feature": "game"
+        },
+        {
+          "weight": "1",
+          "feature": "robinson"
+        },
+        {
+          "weight": "1",
+          "feature": "first"
+        }
+      ]
+    },
+    {
+      "title": "456",
+      "text": "world going to end 2000",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "going"
+        },
+        {
+          "weight": "1",
+          "feature": "end"
+        },
+        {
+          "weight": "1",
+          "feature": "world"
+        },
+        {
+          "weight": "1",
+          "feature": "2000"
+        }
+      ]
+    },
+    {
+      "title": "457",
+      "text": "chevrolet trucks",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "trucks"
+        },
+        {
+          "weight": "1",
+          "feature": "chevrolet"
+        }
+      ]
+    },
+    {
+      "title": "458",
+      "text": "fasting",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fasting"
+        }
+      ]
+    },
+    {
+      "title": "459",
+      "text": "lender foreclose property",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "property"
+        },
+        {
+          "weight": "1",
+          "feature": "foreclose"
+        },
+        {
+          "weight": "1",
+          "feature": "lender"
+        }
+      ]
+    },
+    {
+      "title": "460",
+      "text": "was moses",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "moses"
+        },
+        {
+          "weight": "1",
+          "feature": "was"
+        }
+      ]
+    },
+    {
+      "title": "461",
+      "text": "lava lamps",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "lamps"
+        },
+        {
+          "weight": "1",
+          "feature": "lava"
+        }
+      ]
+    },
+    {
+      "title": "462",
+      "text": "real estate jersey",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "real"
+        },
+        {
+          "weight": "1",
+          "feature": "jersey"
+        },
+        {
+          "weight": "1",
+          "feature": "estate"
+        }
+      ]
+    },
+    {
+      "title": "463",
+      "text": "tartin",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "tartin"
+        }
+      ]
+    },
+    {
+      "title": "464",
+      "text": "nativity scenes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "scenes"
+        },
+        {
+          "weight": "1",
+          "feature": "nativity"
+        }
+      ]
+    },
+    {
+      "title": "465",
+      "text": "deer",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "deer"
+        }
+      ]
+    },
+    {
+      "title": "466",
+      "text": "information about peer gynt suite",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "peer"
+        },
+        {
+          "weight": "1",
+          "feature": "information"
+        },
+        {
+          "weight": "1",
+          "feature": "gynt"
+        },
+        {
+          "weight": "1",
+          "feature": "about"
+        },
+        {
+          "weight": "1",
+          "feature": "suite"
+        }
+      ]
+    },
+    {
+      "title": "467",
+      "text": "dachshund dachshunds wiener dog",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "wiener"
+        },
+        {
+          "weight": "1",
+          "feature": "dachshund"
+        },
+        {
+          "weight": "1",
+          "feature": "dachshunds"
+        },
+        {
+          "weight": "1",
+          "feature": "dog"
+        }
+      ]
+    },
+    {
+      "title": "468",
+      "text": "incandescent light bulb",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bulb"
+        },
+        {
+          "weight": "1",
+          "feature": "incandescent"
+        },
+        {
+          "weight": "1",
+          "feature": "light"
+        }
+      ]
+    },
+    {
+      "title": "469",
+      "text": "steinbach nutcracker",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "nutcracker"
+        },
+        {
+          "weight": "1",
+          "feature": "steinbach"
+        }
+      ]
+    },
+    {
+      "title": "470",
+      "text": "mistletoe",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mistletoe"
+        }
+      ]
+    },
+    {
+      "title": "471",
+      "text": "mexican food culture",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "food"
+        },
+        {
+          "weight": "1",
+          "feature": "mexican"
+        },
+        {
+          "weight": "1",
+          "feature": "culture"
+        }
+      ]
+    },
+    {
+      "title": "472",
+      "text": "antique appliance restoration",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "restoration"
+        },
+        {
+          "weight": "1",
+          "feature": "antique"
+        },
+        {
+          "weight": "1",
+          "feature": "appliance"
+        }
+      ]
+    },
+    {
+      "title": "473",
+      "text": "toronto film awards",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "film"
+        },
+        {
+          "weight": "1",
+          "feature": "awards"
+        },
+        {
+          "weight": "1",
+          "feature": "toronto"
+        }
+      ]
+    },
+    {
+      "title": "474",
+      "text": "how e mail bennefits businesses",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mail"
+        },
+        {
+          "weight": "1",
+          "feature": "e"
+        },
+        {
+          "weight": "1",
+          "feature": "bennefits"
+        },
+        {
+          "weight": "1",
+          "feature": "how"
+        },
+        {
+          "weight": "1",
+          "feature": "businesses"
+        }
+      ]
+    },
+    {
+      "title": "475",
+      "text": "compostion zirconium",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "zirconium"
+        },
+        {
+          "weight": "1",
+          "feature": "compostion"
+        }
+      ]
+    },
+    {
+      "title": "476",
+      "text": "jennifer aniston",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "jennifer"
+        },
+        {
+          "weight": "1",
+          "feature": "aniston"
+        }
+      ]
+    },
+    {
+      "title": "477",
+      "text": "royal carribean cruise lines",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "carribean"
+        },
+        {
+          "weight": "1",
+          "feature": "royal"
+        },
+        {
+          "weight": "1",
+          "feature": "lines"
+        },
+        {
+          "weight": "1",
+          "feature": "cruise"
+        }
+      ]
+    },
+    {
+      "title": "478",
+      "text": "baltimore",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "baltimore"
+        }
+      ]
+    },
+    {
+      "title": "479",
+      "text": "find information about kappa alpha psi",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "information"
+        },
+        {
+          "weight": "1",
+          "feature": "psi"
+        },
+        {
+          "weight": "1",
+          "feature": "alpha"
+        },
+        {
+          "weight": "1",
+          "feature": "kappa"
+        },
+        {
+          "weight": "1",
+          "feature": "about"
+        },
+        {
+          "weight": "1",
+          "feature": "find"
+        }
+      ]
+    },
+    {
+      "title": "480",
+      "text": "car traffic report",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "car"
+        },
+        {
+          "weight": "1",
+          "feature": "traffic"
+        },
+        {
+          "weight": "1",
+          "feature": "report"
+        }
+      ]
+    },
+    {
+      "title": "481",
+      "text": "babe ruth 1920",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "1920"
+        },
+        {
+          "weight": "1",
+          "feature": "ruth"
+        },
+        {
+          "weight": "1",
+          "feature": "babe"
+        }
+      ]
+    },
+    {
+      "title": "482",
+      "text": "find growth rates pine tree",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "tree"
+        },
+        {
+          "weight": "1",
+          "feature": "rates"
+        },
+        {
+          "weight": "1",
+          "feature": "pine"
+        },
+        {
+          "weight": "1",
+          "feature": "find"
+        },
+        {
+          "weight": "1",
+          "feature": "growth"
+        }
+      ]
+    },
+    {
+      "title": "483",
+      "text": "rosebowl parade",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "parade"
+        },
+        {
+          "weight": "1",
+          "feature": "rosebowl"
+        }
+      ]
+    },
+    {
+      "title": "484",
+      "text": "auto skoda",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "skoda"
+        },
+        {
+          "weight": "1",
+          "feature": "auto"
+        }
+      ]
+    },
+    {
+      "title": "485",
+      "text": "gps clock",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "clock"
+        },
+        {
+          "weight": "1",
+          "feature": "gps"
+        }
+      ]
+    },
+    {
+      "title": "486",
+      "text": "dorado casino reno",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dorado"
+        },
+        {
+          "weight": "1",
+          "feature": "reno"
+        },
+        {
+          "weight": "1",
+          "feature": "casino"
+        }
+      ]
+    },
+    {
+      "title": "487",
+      "text": "angioplasty",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "angioplasty"
+        }
+      ]
+    },
+    {
+      "title": "488",
+      "text": "newport beach california",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "california"
+        },
+        {
+          "weight": "1",
+          "feature": "newport"
+        },
+        {
+          "weight": "1",
+          "feature": "beach"
+        }
+      ]
+    },
+    {
+      "title": "489",
+      "text": "calcium",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "calcium"
+        }
+      ]
+    },
+    {
+      "title": "490",
+      "text": "motorcycle safety helmets",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "safety"
+        },
+        {
+          "weight": "1",
+          "feature": "helmets"
+        },
+        {
+          "weight": "1",
+          "feature": "motorcycle"
+        }
+      ]
+    },
+    {
+      "title": "491",
+      "text": "japanese wave",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "wave"
+        },
+        {
+          "weight": "1",
+          "feature": "japanese"
+        }
+      ]
+    },
+    {
+      "title": "492",
+      "text": "us savings bonds",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bonds"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "savings"
+        }
+      ]
+    },
+    {
+      "title": "493",
+      "text": "retire",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "retire"
+        }
+      ]
+    },
+    {
+      "title": "494",
+      "text": "nirvana",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "nirvana"
+        }
+      ]
+    },
+    {
+      "title": "495",
+      "text": "find information decade 1920",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "information"
+        },
+        {
+          "weight": "1",
+          "feature": "1920"
+        },
+        {
+          "weight": "1",
+          "feature": "decade"
+        },
+        {
+          "weight": "1",
+          "feature": "find"
+        }
+      ]
+    },
+    {
+      "title": "496",
+      "text": "tmj",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "tmj"
+        }
+      ]
+    },
+    {
+      "title": "497",
+      "text": "orchids",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "orchids"
+        }
+      ]
+    },
+    {
+      "title": "498",
+      "text": "hair transplant",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "transplant"
+        },
+        {
+          "weight": "1",
+          "feature": "hair"
+        }
+      ]
+    },
+    {
+      "title": "499",
+      "text": "pool cue",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pool"
+        },
+        {
+          "weight": "1",
+          "feature": "cue"
+        }
+      ]
+    },
+    {
+      "title": "500",
+      "text": "dna testing",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dna"
+        },
+        {
+          "weight": "1",
+          "feature": "testing"
+        }
+      ]
+    },
+    {
+      "title": "501",
+      "text": "deduction induction english",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "induction"
+        },
+        {
+          "weight": "1",
+          "feature": "deduction"
+        },
+        {
+          "weight": "1",
+          "feature": "english"
+        }
+      ]
+    },
+    {
+      "title": "502",
+      "text": "prime factor",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "prime"
+        },
+        {
+          "weight": "1",
+          "feature": "factor"
+        }
+      ]
+    },
+    {
+      "title": "503",
+      "text": "vikings scotland",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "scotland"
+        },
+        {
+          "weight": "1",
+          "feature": "vikings"
+        }
+      ]
+    },
+    {
+      "title": "504",
+      "text": "information manatees eat",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "information"
+        },
+        {
+          "weight": "1",
+          "feature": "eat"
+        },
+        {
+          "weight": "1",
+          "feature": "manatees"
+        }
+      ]
+    },
+    {
+      "title": "505",
+      "text": "edmund hillary sir",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "edmund"
+        },
+        {
+          "weight": "1",
+          "feature": "sir"
+        },
+        {
+          "weight": "1",
+          "feature": "hillary"
+        }
+      ]
+    },
+    {
+      "title": "506",
+      "text": "history skateboarding",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "skateboarding"
+        },
+        {
+          "weight": "1",
+          "feature": "history"
+        }
+      ]
+    },
+    {
+      "title": "507",
+      "text": "dodge recalls",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "recalls"
+        },
+        {
+          "weight": "1",
+          "feature": "dodge"
+        }
+      ]
+    },
+    {
+      "title": "508",
+      "text": "hair loss symptom diseases",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "loss"
+        },
+        {
+          "weight": "1",
+          "feature": "diseases"
+        },
+        {
+          "weight": "1",
+          "feature": "hair"
+        },
+        {
+          "weight": "1",
+          "feature": "symptom"
+        }
+      ]
+    },
+    {
+      "title": "509",
+      "text": "steroids body",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "body"
+        },
+        {
+          "weight": "1",
+          "feature": "steroids"
+        }
+      ]
+    },
+    {
+      "title": "510",
+      "text": "information j robert oppenheimer",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "information"
+        },
+        {
+          "weight": "1",
+          "feature": "j"
+        },
+        {
+          "weight": "1",
+          "feature": "robert"
+        },
+        {
+          "weight": "1",
+          "feature": "oppenheimer"
+        }
+      ]
+    },
+    {
+      "title": "511",
+      "text": "diseases caused smoking",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "smoking"
+        },
+        {
+          "weight": "1",
+          "feature": "diseases"
+        },
+        {
+          "weight": "1",
+          "feature": "caused"
+        }
+      ]
+    },
+    {
+      "title": "512",
+      "text": "tornadoes formed",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "formed"
+        },
+        {
+          "weight": "1",
+          "feature": "tornadoes"
+        }
+      ]
+    },
+    {
+      "title": "513",
+      "text": "earthquakes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "earthquakes"
+        }
+      ]
+    },
+    {
+      "title": "514",
+      "text": "money retirement",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "retirement"
+        },
+        {
+          "weight": "1",
+          "feature": "money"
+        }
+      ]
+    },
+    {
+      "title": "515",
+      "text": "alexander graham bell",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bell"
+        },
+        {
+          "weight": "1",
+          "feature": "graham"
+        },
+        {
+          "weight": "1",
+          "feature": "alexander"
+        }
+      ]
+    },
+    {
+      "title": "516",
+      "text": "halloween",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "halloween"
+        }
+      ]
+    },
+    {
+      "title": "517",
+      "text": "titanic went wrong",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "titanic"
+        },
+        {
+          "weight": "1",
+          "feature": "wrong"
+        },
+        {
+          "weight": "1",
+          "feature": "went"
+        }
+      ]
+    },
+    {
+      "title": "518",
+      "text": "statistics aid decision making",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "making"
+        },
+        {
+          "weight": "1",
+          "feature": "aid"
+        },
+        {
+          "weight": "1",
+          "feature": "decision"
+        },
+        {
+          "weight": "1",
+          "feature": "statistics"
+        }
+      ]
+    },
+    {
+      "title": "519",
+      "text": "info frogs live",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "frogs"
+        },
+        {
+          "weight": "1",
+          "feature": "live"
+        },
+        {
+          "weight": "1",
+          "feature": "info"
+        }
+      ]
+    },
+    {
+      "title": "520",
+      "text": "black plague stopped",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "plague"
+        },
+        {
+          "weight": "1",
+          "feature": "stopped"
+        },
+        {
+          "weight": "1",
+          "feature": "black"
+        }
+      ]
+    },
+    {
+      "title": "521",
+      "text": "surveys best places live",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "best"
+        },
+        {
+          "weight": "1",
+          "feature": "surveys"
+        },
+        {
+          "weight": "1",
+          "feature": "places"
+        },
+        {
+          "weight": "1",
+          "feature": "live"
+        }
+      ]
+    },
+    {
+      "title": "522",
+      "text": "water supplied mojave desert region",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "region"
+        },
+        {
+          "weight": "1",
+          "feature": "water"
+        },
+        {
+          "weight": "1",
+          "feature": "desert"
+        },
+        {
+          "weight": "1",
+          "feature": "mojave"
+        },
+        {
+          "weight": "1",
+          "feature": "supplied"
+        }
+      ]
+    },
+    {
+      "title": "523",
+      "text": "facts five main clouds",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "clouds"
+        },
+        {
+          "weight": "1",
+          "feature": "five"
+        },
+        {
+          "weight": "1",
+          "feature": "facts"
+        },
+        {
+          "weight": "1",
+          "feature": "main"
+        }
+      ]
+    },
+    {
+      "title": "524",
+      "text": "erase scar",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "erase"
+        },
+        {
+          "weight": "1",
+          "feature": "scar"
+        }
+      ]
+    },
+    {
+      "title": "525",
+      "text": "water atmosphere",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "water"
+        },
+        {
+          "weight": "1",
+          "feature": "atmosphere"
+        }
+      ]
+    },
+    {
+      "title": "526",
+      "text": "bmi",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bmi"
+        }
+      ]
+    },
+    {
+      "title": "527",
+      "text": "info booker t washington",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "washington"
+        },
+        {
+          "weight": "1",
+          "feature": "t"
+        },
+        {
+          "weight": "1",
+          "feature": "booker"
+        },
+        {
+          "weight": "1",
+          "feature": "info"
+        }
+      ]
+    },
+    {
+      "title": "528",
+      "text": "hygrometer measure humidity atmosphere",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "humidity"
+        },
+        {
+          "weight": "1",
+          "feature": "measure"
+        },
+        {
+          "weight": "1",
+          "feature": "atmosphere"
+        },
+        {
+          "weight": "1",
+          "feature": "hygrometer"
+        }
+      ]
+    },
+    {
+      "title": "529",
+      "text": "history cambodia",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "history"
+        },
+        {
+          "weight": "1",
+          "feature": "cambodia"
+        }
+      ]
+    },
+    {
+      "title": "530",
+      "text": "pheromone scents work",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "work"
+        },
+        {
+          "weight": "1",
+          "feature": "scents"
+        },
+        {
+          "weight": "1",
+          "feature": "pheromone"
+        }
+      ]
+    },
+    {
+      "title": "532",
+      "text": "hypnosis",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hypnosis"
+        }
+      ]
+    },
+    {
+      "title": "533",
+      "text": "school uniforms public schools",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "uniforms"
+        },
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "schools"
+        },
+        {
+          "weight": "1",
+          "feature": "public"
+        }
+      ]
+    },
+    {
+      "title": "534",
+      "text": "artists died 1700 s",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "artists"
+        },
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "died"
+        },
+        {
+          "weight": "1",
+          "feature": "1700"
+        }
+      ]
+    },
+    {
+      "title": "535",
+      "text": "canadian building codes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "building"
+        },
+        {
+          "weight": "1",
+          "feature": "canadian"
+        },
+        {
+          "weight": "1",
+          "feature": "codes"
+        }
+      ]
+    },
+    {
+      "title": "536",
+      "text": "babies eat honey",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "babies"
+        },
+        {
+          "weight": "1",
+          "feature": "eat"
+        },
+        {
+          "weight": "1",
+          "feature": "honey"
+        }
+      ]
+    },
+    {
+      "title": "537",
+      "text": "sun beds safe",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "safe"
+        },
+        {
+          "weight": "1",
+          "feature": "beds"
+        },
+        {
+          "weight": "1",
+          "feature": "sun"
+        }
+      ]
+    },
+    {
+      "title": "538",
+      "text": "fha",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "fha"
+        }
+      ]
+    },
+    {
+      "title": "539",
+      "text": "authors suffered depression",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "authors"
+        },
+        {
+          "weight": "1",
+          "feature": "depression"
+        },
+        {
+          "weight": "1",
+          "feature": "suffered"
+        }
+      ]
+    },
+    {
+      "title": "540",
+      "text": "stress cause obesity",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cause"
+        },
+        {
+          "weight": "1",
+          "feature": "obesity"
+        },
+        {
+          "weight": "1",
+          "feature": "stress"
+        }
+      ]
+    },
+    {
+      "title": "541",
+      "text": "instruments forecast weather",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "forecast"
+        },
+        {
+          "weight": "1",
+          "feature": "weather"
+        },
+        {
+          "weight": "1",
+          "feature": "instruments"
+        }
+      ]
+    },
+    {
+      "title": "542",
+      "text": "good things fire environment",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "environment"
+        },
+        {
+          "weight": "1",
+          "feature": "good"
+        },
+        {
+          "weight": "1",
+          "feature": "things"
+        },
+        {
+          "weight": "1",
+          "feature": "fire"
+        }
+      ]
+    },
+    {
+      "title": "543",
+      "text": "radiography risks",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "radiography"
+        },
+        {
+          "weight": "1",
+          "feature": "risks"
+        }
+      ]
+    },
+    {
+      "title": "544",
+      "text": "estrogen needed",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "estrogen"
+        },
+        {
+          "weight": "1",
+          "feature": "needed"
+        }
+      ]
+    },
+    {
+      "title": "545",
+      "text": "extent did peter great reform russia",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "russia"
+        },
+        {
+          "weight": "1",
+          "feature": "great"
+        },
+        {
+          "weight": "1",
+          "feature": "reform"
+        },
+        {
+          "weight": "1",
+          "feature": "extent"
+        },
+        {
+          "weight": "1",
+          "feature": "peter"
+        },
+        {
+          "weight": "1",
+          "feature": "did"
+        }
+      ]
+    },
+    {
+      "title": "546",
+      "text": "recycle cans",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cans"
+        },
+        {
+          "weight": "1",
+          "feature": "recycle"
+        }
+      ]
+    },
+    {
+      "title": "547",
+      "text": "camels domesticated",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "domesticated"
+        },
+        {
+          "weight": "1",
+          "feature": "camels"
+        }
+      ]
+    },
+    {
+      "title": "548",
+      "text": "solar heat heat pool",
+      "model": [
+        {
+          "weight": "2",
+          "feature": "heat"
+        },
+        {
+          "weight": "1",
+          "feature": "pool"
+        },
+        {
+          "weight": "1",
+          "feature": "solar"
+        }
+      ]
+    },
+    {
+      "title": "549",
+      "text": "cancer related cell reproduction",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cell"
+        },
+        {
+          "weight": "1",
+          "feature": "reproduction"
+        },
+        {
+          "weight": "1",
+          "feature": "cancer"
+        },
+        {
+          "weight": "1",
+          "feature": "related"
+        }
+      ]
+    },
+    {
+      "title": "550",
+      "text": "volcanoes made",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "made"
+        },
+        {
+          "weight": "1",
+          "feature": "volcanoes"
+        }
+      ]
+    }
+  ]
+}

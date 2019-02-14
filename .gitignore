@@ -1,0 +1,4 @@
+.R*
+src/.idea/
+src/venv/
+__pycache__/

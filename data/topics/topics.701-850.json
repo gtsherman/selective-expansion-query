@@ -1,0 +1,2758 @@
+{
+  "queries": [
+    {
+      "title": "701",
+      "text": "US oil industry history",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "history"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "industry"
+        },
+        {
+          "weight": "1",
+          "feature": "oil"
+        }
+      ]
+    },
+    {
+      "title": "702",
+      "text": "Pearl farming",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pearl"
+        },
+        {
+          "weight": "1",
+          "feature": "farming"
+        }
+      ]
+    },
+    {
+      "title": "704",
+      "text": "Green party political views",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "political"
+        },
+        {
+          "weight": "1",
+          "feature": "views"
+        },
+        {
+          "weight": "1",
+          "feature": "green"
+        },
+        {
+          "weight": "1",
+          "feature": "party"
+        }
+      ]
+    },
+    {
+      "title": "705",
+      "text": "Iraq foreign debt reduction",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "debt"
+        },
+        {
+          "weight": "1",
+          "feature": "reduction"
+        },
+        {
+          "weight": "1",
+          "feature": "foreign"
+        },
+        {
+          "weight": "1",
+          "feature": "iraq"
+        }
+      ]
+    },
+    {
+      "title": "706",
+      "text": "Controlling type II diabetes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "controlling"
+        },
+        {
+          "weight": "1",
+          "feature": "diabetes"
+        },
+        {
+          "weight": "1",
+          "feature": "ii"
+        },
+        {
+          "weight": "1",
+          "feature": "type"
+        }
+      ]
+    },
+    {
+      "title": "707",
+      "text": "Aspirin cancer prevention",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "aspirin"
+        },
+        {
+          "weight": "1",
+          "feature": "prevention"
+        },
+        {
+          "weight": "1",
+          "feature": "cancer"
+        }
+      ]
+    },
+    {
+      "title": "708",
+      "text": "Decorative slate sources",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "decorative"
+        },
+        {
+          "weight": "1",
+          "feature": "slate"
+        },
+        {
+          "weight": "1",
+          "feature": "sources"
+        }
+      ]
+    },
+    {
+      "title": "709",
+      "text": "Horse racing jockey weight",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "weight"
+        },
+        {
+          "weight": "1",
+          "feature": "jockey"
+        },
+        {
+          "weight": "1",
+          "feature": "racing"
+        },
+        {
+          "weight": "1",
+          "feature": "horse"
+        }
+      ]
+    },
+    {
+      "title": "710",
+      "text": "Prostate cancer treatments",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "prostate"
+        },
+        {
+          "weight": "1",
+          "feature": "cancer"
+        },
+        {
+          "weight": "1",
+          "feature": "treatments"
+        }
+      ]
+    },
+    {
+      "title": "711",
+      "text": "Train station security measures",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "station"
+        },
+        {
+          "weight": "1",
+          "feature": "train"
+        },
+        {
+          "weight": "1",
+          "feature": "measures"
+        },
+        {
+          "weight": "1",
+          "feature": "security"
+        }
+      ]
+    },
+    {
+      "title": "712",
+      "text": "Pyramid scheme",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "scheme"
+        },
+        {
+          "weight": "1",
+          "feature": "pyramid"
+        }
+      ]
+    },
+    {
+      "title": "713",
+      "text": "Chesapeake Bay Maryland clean",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "chesapeake"
+        },
+        {
+          "weight": "1",
+          "feature": "clean"
+        },
+        {
+          "weight": "1",
+          "feature": "bay"
+        },
+        {
+          "weight": "1",
+          "feature": "maryland"
+        }
+      ]
+    },
+    {
+      "title": "714",
+      "text": "License restrictions older drivers",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "drivers"
+        },
+        {
+          "weight": "1",
+          "feature": "restrictions"
+        },
+        {
+          "weight": "1",
+          "feature": "older"
+        },
+        {
+          "weight": "1",
+          "feature": "license"
+        }
+      ]
+    },
+    {
+      "title": "715",
+      "text": "Schizophrenia drugs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "schizophrenia"
+        },
+        {
+          "weight": "1",
+          "feature": "drugs"
+        }
+      ]
+    },
+    {
+      "title": "716",
+      "text": "Spammer arrest sue",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sue"
+        },
+        {
+          "weight": "1",
+          "feature": "arrest"
+        },
+        {
+          "weight": "1",
+          "feature": "spammer"
+        }
+      ]
+    },
+    {
+      "title": "717",
+      "text": "Gifted talented student programs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "programs"
+        },
+        {
+          "weight": "1",
+          "feature": "student"
+        },
+        {
+          "weight": "1",
+          "feature": "talented"
+        },
+        {
+          "weight": "1",
+          "feature": "gifted"
+        }
+      ]
+    },
+    {
+      "title": "718",
+      "text": "Controlling acid rain",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "controlling"
+        },
+        {
+          "weight": "1",
+          "feature": "acid"
+        },
+        {
+          "weight": "1",
+          "feature": "rain"
+        }
+      ]
+    },
+    {
+      "title": "719",
+      "text": "Cruise ship damage sea life",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "life"
+        },
+        {
+          "weight": "1",
+          "feature": "ship"
+        },
+        {
+          "weight": "1",
+          "feature": "damage"
+        },
+        {
+          "weight": "1",
+          "feature": "sea"
+        },
+        {
+          "weight": "1",
+          "feature": "cruise"
+        }
+      ]
+    },
+    {
+      "title": "720",
+      "text": "Federal welfare reform",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "federal"
+        },
+        {
+          "weight": "1",
+          "feature": "reform"
+        },
+        {
+          "weight": "1",
+          "feature": "welfare"
+        }
+      ]
+    },
+    {
+      "title": "721",
+      "text": "Census data applications",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "census"
+        },
+        {
+          "weight": "1",
+          "feature": "data"
+        },
+        {
+          "weight": "1",
+          "feature": "applications"
+        }
+      ]
+    },
+    {
+      "title": "722",
+      "text": "Iran terrorism",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "terrorism"
+        },
+        {
+          "weight": "1",
+          "feature": "iran"
+        }
+      ]
+    },
+    {
+      "title": "723",
+      "text": "Executive privilege",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "executive"
+        },
+        {
+          "weight": "1",
+          "feature": "privilege"
+        }
+      ]
+    },
+    {
+      "title": "724",
+      "text": "Iran Contra",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "iran"
+        },
+        {
+          "weight": "1",
+          "feature": "contra"
+        }
+      ]
+    },
+    {
+      "title": "725",
+      "text": "Low white blood cell count",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "count"
+        },
+        {
+          "weight": "1",
+          "feature": "cell"
+        },
+        {
+          "weight": "1",
+          "feature": "white"
+        },
+        {
+          "weight": "1",
+          "feature": "blood"
+        },
+        {
+          "weight": "1",
+          "feature": "low"
+        }
+      ]
+    },
+    {
+      "title": "726",
+      "text": "Hubble telescope repairs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hubble"
+        },
+        {
+          "weight": "1",
+          "feature": "telescope"
+        },
+        {
+          "weight": "1",
+          "feature": "repairs"
+        }
+      ]
+    },
+    {
+      "title": "727",
+      "text": "Church arson",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "church"
+        },
+        {
+          "weight": "1",
+          "feature": "arson"
+        }
+      ]
+    },
+    {
+      "title": "728",
+      "text": "whales save endangered",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "save"
+        },
+        {
+          "weight": "1",
+          "feature": "endangered"
+        },
+        {
+          "weight": "1",
+          "feature": "whales"
+        }
+      ]
+    },
+    {
+      "title": "729",
+      "text": "Whistle blower department of defense",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "defense"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "department"
+        },
+        {
+          "weight": "1",
+          "feature": "whistle"
+        },
+        {
+          "weight": "1",
+          "feature": "blower"
+        }
+      ]
+    },
+    {
+      "title": "730",
+      "text": "Gastric bypass complications",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "gastric"
+        },
+        {
+          "weight": "1",
+          "feature": "complications"
+        },
+        {
+          "weight": "1",
+          "feature": "bypass"
+        }
+      ]
+    },
+    {
+      "title": "731",
+      "text": "Kurds history",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "history"
+        },
+        {
+          "weight": "1",
+          "feature": "kurds"
+        }
+      ]
+    },
+    {
+      "title": "732",
+      "text": "US cheese production ",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cheese"
+        },
+        {
+          "weight": "1",
+          "feature": "us"
+        },
+        {
+          "weight": "1",
+          "feature": "production"
+        }
+      ]
+    },
+    {
+      "title": "733",
+      "text": "Airline overbooking",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "overbooking"
+        },
+        {
+          "weight": "1",
+          "feature": "airline"
+        }
+      ]
+    },
+    {
+      "title": "734",
+      "text": "Recycling successes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "successes"
+        },
+        {
+          "weight": "1",
+          "feature": "recycling"
+        }
+      ]
+    },
+    {
+      "title": "735",
+      "text": "Afghan women condition",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "condition"
+        },
+        {
+          "weight": "1",
+          "feature": "afghan"
+        },
+        {
+          "weight": "1",
+          "feature": "women"
+        }
+      ]
+    },
+    {
+      "title": "736",
+      "text": "location BSE infections",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "location"
+        },
+        {
+          "weight": "1",
+          "feature": "infections"
+        },
+        {
+          "weight": "1",
+          "feature": "bse"
+        }
+      ]
+    },
+    {
+      "title": "737",
+      "text": "Enron California energy crisis",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "enron"
+        },
+        {
+          "weight": "1",
+          "feature": "california"
+        },
+        {
+          "weight": "1",
+          "feature": "crisis"
+        },
+        {
+          "weight": "1",
+          "feature": "energy"
+        }
+      ]
+    },
+    {
+      "title": "738",
+      "text": "Anthrax hoaxes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "hoaxes"
+        },
+        {
+          "weight": "1",
+          "feature": "anthrax"
+        }
+      ]
+    },
+    {
+      "title": "739",
+      "text": "Habitat for Humanity",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "humanity"
+        },
+        {
+          "weight": "1",
+          "feature": "habitat"
+        },
+        {
+          "weight": "1",
+          "feature": "for"
+        }
+      ]
+    },
+    {
+      "title": "740",
+      "text": "regulate assisted living Maryland",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "assisted"
+        },
+        {
+          "weight": "1",
+          "feature": "maryland"
+        },
+        {
+          "weight": "1",
+          "feature": "living"
+        },
+        {
+          "weight": "1",
+          "feature": "regulate"
+        }
+      ]
+    },
+    {
+      "title": "741",
+      "text": "Artificial Intelligence",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "artificial"
+        },
+        {
+          "weight": "1",
+          "feature": "intelligence"
+        }
+      ]
+    },
+    {
+      "title": "742",
+      "text": "hedge funds fraud protection",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "protection"
+        },
+        {
+          "weight": "1",
+          "feature": "hedge"
+        },
+        {
+          "weight": "1",
+          "feature": "funds"
+        },
+        {
+          "weight": "1",
+          "feature": "fraud"
+        }
+      ]
+    },
+    {
+      "title": "743",
+      "text": "Freighter ship registration",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ship"
+        },
+        {
+          "weight": "1",
+          "feature": "freighter"
+        },
+        {
+          "weight": "1",
+          "feature": "registration"
+        }
+      ]
+    },
+    {
+      "title": "744",
+      "text": "Counterfeit ID punishments",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "id"
+        },
+        {
+          "weight": "1",
+          "feature": "punishments"
+        },
+        {
+          "weight": "1",
+          "feature": "counterfeit"
+        }
+      ]
+    },
+    {
+      "title": "745",
+      "text": "Doomsday cults",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cults"
+        },
+        {
+          "weight": "1",
+          "feature": "doomsday"
+        }
+      ]
+    },
+    {
+      "title": "746",
+      "text": "Outsource job India",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "outsource"
+        },
+        {
+          "weight": "1",
+          "feature": "job"
+        },
+        {
+          "weight": "1",
+          "feature": "india"
+        }
+      ]
+    },
+    {
+      "title": "747",
+      "text": "Library computer oversight",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "computer"
+        },
+        {
+          "weight": "1",
+          "feature": "library"
+        },
+        {
+          "weight": "1",
+          "feature": "oversight"
+        }
+      ]
+    },
+    {
+      "title": "748",
+      "text": "Nuclear reactor types",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "reactor"
+        },
+        {
+          "weight": "1",
+          "feature": "nuclear"
+        },
+        {
+          "weight": "1",
+          "feature": "types"
+        }
+      ]
+    },
+    {
+      "title": "749",
+      "text": "Puerto Rico state",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "state"
+        },
+        {
+          "weight": "1",
+          "feature": "puerto"
+        },
+        {
+          "weight": "1",
+          "feature": "rico"
+        }
+      ]
+    },
+    {
+      "title": "750",
+      "text": "John Edwards womens issues",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "womens"
+        },
+        {
+          "weight": "1",
+          "feature": "issues"
+        },
+        {
+          "weight": "1",
+          "feature": "john"
+        },
+        {
+          "weight": "1",
+          "feature": "edwards"
+        }
+      ]
+    },
+    {
+      "title": "751",
+      "text": "Scrabble Players",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "scrabble"
+        },
+        {
+          "weight": "1",
+          "feature": "players"
+        }
+      ]
+    },
+    {
+      "title": "752",
+      "text": "Dam removal",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "removal"
+        },
+        {
+          "weight": "1",
+          "feature": "dam"
+        }
+      ]
+    },
+    {
+      "title": "753",
+      "text": "bullying prevention programs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "programs"
+        },
+        {
+          "weight": "1",
+          "feature": "bullying"
+        },
+        {
+          "weight": "1",
+          "feature": "prevention"
+        }
+      ]
+    },
+    {
+      "title": "754",
+      "text": "domestic adoption laws",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "adoption"
+        },
+        {
+          "weight": "1",
+          "feature": "laws"
+        },
+        {
+          "weight": "1",
+          "feature": "domestic"
+        }
+      ]
+    },
+    {
+      "title": "755",
+      "text": "Scottish Highland Games",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "highland"
+        },
+        {
+          "weight": "1",
+          "feature": "games"
+        },
+        {
+          "weight": "1",
+          "feature": "scottish"
+        }
+      ]
+    },
+    {
+      "title": "756",
+      "text": "Volcanic Activity",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "volcanic"
+        },
+        {
+          "weight": "1",
+          "feature": "activity"
+        }
+      ]
+    },
+    {
+      "title": "757",
+      "text": "Murals",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "murals"
+        }
+      ]
+    },
+    {
+      "title": "758",
+      "text": "Embryonic stem cells",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cells"
+        },
+        {
+          "weight": "1",
+          "feature": "stem"
+        },
+        {
+          "weight": "1",
+          "feature": "embryonic"
+        }
+      ]
+    },
+    {
+      "title": "759",
+      "text": "civil war battle reenactments",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "battle"
+        },
+        {
+          "weight": "1",
+          "feature": "civil"
+        },
+        {
+          "weight": "1",
+          "feature": "reenactments"
+        },
+        {
+          "weight": "1",
+          "feature": "war"
+        }
+      ]
+    },
+    {
+      "title": "760",
+      "text": "american muslim mosques schools",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "muslim"
+        },
+        {
+          "weight": "1",
+          "feature": "mosques"
+        },
+        {
+          "weight": "1",
+          "feature": "schools"
+        },
+        {
+          "weight": "1",
+          "feature": "american"
+        }
+      ]
+    },
+    {
+      "title": "761",
+      "text": "Problems of Hmong Immigrants",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "problems"
+        },
+        {
+          "weight": "1",
+          "feature": "immigrants"
+        },
+        {
+          "weight": "1",
+          "feature": "hmong"
+        }
+      ]
+    },
+    {
+      "title": "762",
+      "text": "History of Physicians in America",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "history"
+        },
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "physicians"
+        },
+        {
+          "weight": "1",
+          "feature": "america"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        }
+      ]
+    },
+    {
+      "title": "763",
+      "text": "Hunting deaths",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "deaths"
+        },
+        {
+          "weight": "1",
+          "feature": "hunting"
+        }
+      ]
+    },
+    {
+      "title": "764",
+      "text": "Increase mass transit use",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mass"
+        },
+        {
+          "weight": "1",
+          "feature": "use"
+        },
+        {
+          "weight": "1",
+          "feature": "increase"
+        },
+        {
+          "weight": "1",
+          "feature": "transit"
+        }
+      ]
+    },
+    {
+      "title": "765",
+      "text": "ephedra ma huang deaths",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "deaths"
+        },
+        {
+          "weight": "1",
+          "feature": "ma"
+        },
+        {
+          "weight": "1",
+          "feature": "huang"
+        },
+        {
+          "weight": "1",
+          "feature": "ephedra"
+        }
+      ]
+    },
+    {
+      "title": "766",
+      "text": "diamond smuggling",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "smuggling"
+        },
+        {
+          "weight": "1",
+          "feature": "diamond"
+        }
+      ]
+    },
+    {
+      "title": "767",
+      "text": "Pharmacist License requirements",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pharmacist"
+        },
+        {
+          "weight": "1",
+          "feature": "license"
+        },
+        {
+          "weight": "1",
+          "feature": "requirements"
+        }
+      ]
+    },
+    {
+      "title": "768",
+      "text": "Women in state legislatures",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "legislatures"
+        },
+        {
+          "weight": "1",
+          "feature": "state"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        },
+        {
+          "weight": "1",
+          "feature": "women"
+        }
+      ]
+    },
+    {
+      "title": "769",
+      "text": "Kroll Associates Employees",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "kroll"
+        },
+        {
+          "weight": "1",
+          "feature": "associates"
+        },
+        {
+          "weight": "1",
+          "feature": "employees"
+        }
+      ]
+    },
+    {
+      "title": "770",
+      "text": "Kyrgyzstan United States relations",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "united"
+        },
+        {
+          "weight": "1",
+          "feature": "relations"
+        },
+        {
+          "weight": "1",
+          "feature": "states"
+        },
+        {
+          "weight": "1",
+          "feature": "kyrgyzstan"
+        }
+      ]
+    },
+    {
+      "title": "771",
+      "text": "deformed leopard frogs",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "deformed"
+        },
+        {
+          "weight": "1",
+          "feature": "frogs"
+        },
+        {
+          "weight": "1",
+          "feature": "leopard"
+        }
+      ]
+    },
+    {
+      "title": "772",
+      "text": "flag display rules",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "flag"
+        },
+        {
+          "weight": "1",
+          "feature": "display"
+        },
+        {
+          "weight": "1",
+          "feature": "rules"
+        }
+      ]
+    },
+    {
+      "title": "773",
+      "text": "Pennsylvania slot machine gambling",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pennsylvania"
+        },
+        {
+          "weight": "1",
+          "feature": "machine"
+        },
+        {
+          "weight": "1",
+          "feature": "slot"
+        },
+        {
+          "weight": "1",
+          "feature": "gambling"
+        }
+      ]
+    },
+    {
+      "title": "774",
+      "text": "Causes of Homelessness",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "homelessness"
+        },
+        {
+          "weight": "1",
+          "feature": "causes"
+        }
+      ]
+    },
+    {
+      "title": "775",
+      "text": "Commercial candy makers",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "candy"
+        },
+        {
+          "weight": "1",
+          "feature": "makers"
+        },
+        {
+          "weight": "1",
+          "feature": "commercial"
+        }
+      ]
+    },
+    {
+      "title": "776",
+      "text": "Magnet schools success",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "schools"
+        },
+        {
+          "weight": "1",
+          "feature": "magnet"
+        },
+        {
+          "weight": "1",
+          "feature": "success"
+        }
+      ]
+    },
+    {
+      "title": "777",
+      "text": "hybrid alternative fuel cars",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "cars"
+        },
+        {
+          "weight": "1",
+          "feature": "fuel"
+        },
+        {
+          "weight": "1",
+          "feature": "alternative"
+        },
+        {
+          "weight": "1",
+          "feature": "hybrid"
+        }
+      ]
+    },
+    {
+      "title": "778",
+      "text": "golden ratio",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ratio"
+        },
+        {
+          "weight": "1",
+          "feature": "golden"
+        }
+      ]
+    },
+    {
+      "title": "779",
+      "text": "Javelinas range and description",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "javelinas"
+        },
+        {
+          "weight": "1",
+          "feature": "range"
+        },
+        {
+          "weight": "1",
+          "feature": "description"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "780",
+      "text": "Arable land",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "land"
+        },
+        {
+          "weight": "1",
+          "feature": "arable"
+        }
+      ]
+    },
+    {
+      "title": "781",
+      "text": "Squirrel control and protections",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "control"
+        },
+        {
+          "weight": "1",
+          "feature": "squirrel"
+        },
+        {
+          "weight": "1",
+          "feature": "protections"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "782",
+      "text": "Orange varieties seasons",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "orange"
+        },
+        {
+          "weight": "1",
+          "feature": "varieties"
+        },
+        {
+          "weight": "1",
+          "feature": "seasons"
+        }
+      ]
+    },
+    {
+      "title": "783",
+      "text": "school mercury poisoning",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "school"
+        },
+        {
+          "weight": "1",
+          "feature": "poisoning"
+        },
+        {
+          "weight": "1",
+          "feature": "mercury"
+        }
+      ]
+    },
+    {
+      "title": "784",
+      "text": "mersenne primes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "primes"
+        },
+        {
+          "weight": "1",
+          "feature": "mersenne"
+        }
+      ]
+    },
+    {
+      "title": "785",
+      "text": "Ivory billed woodpecker",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "billed"
+        },
+        {
+          "weight": "1",
+          "feature": "ivory"
+        },
+        {
+          "weight": "1",
+          "feature": "woodpecker"
+        }
+      ]
+    },
+    {
+      "title": "786",
+      "text": "Yew trees",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "trees"
+        },
+        {
+          "weight": "1",
+          "feature": "yew"
+        }
+      ]
+    },
+    {
+      "title": "787",
+      "text": "Sunflower Cultivation",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "sunflower"
+        },
+        {
+          "weight": "1",
+          "feature": "cultivation"
+        }
+      ]
+    },
+    {
+      "title": "788",
+      "text": "Reverse mortgages",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "reverse"
+        },
+        {
+          "weight": "1",
+          "feature": "mortgages"
+        }
+      ]
+    },
+    {
+      "title": "789",
+      "text": "abandoned mine reclamation",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "reclamation"
+        },
+        {
+          "weight": "1",
+          "feature": "mine"
+        },
+        {
+          "weight": "1",
+          "feature": "abandoned"
+        }
+      ]
+    },
+    {
+      "title": "790",
+      "text": "women s rights in Saudi Arabia",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "arabia"
+        },
+        {
+          "weight": "1",
+          "feature": "rights"
+        },
+        {
+          "weight": "1",
+          "feature": "saudi"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        },
+        {
+          "weight": "1",
+          "feature": "women"
+        }
+      ]
+    },
+    {
+      "title": "791",
+      "text": "Gullah geechee language culture",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "gullah"
+        },
+        {
+          "weight": "1",
+          "feature": "geechee"
+        },
+        {
+          "weight": "1",
+          "feature": "language"
+        },
+        {
+          "weight": "1",
+          "feature": "culture"
+        }
+      ]
+    },
+    {
+      "title": "792",
+      "text": "Social Security means test",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "test"
+        },
+        {
+          "weight": "1",
+          "feature": "social"
+        },
+        {
+          "weight": "1",
+          "feature": "means"
+        },
+        {
+          "weight": "1",
+          "feature": "security"
+        }
+      ]
+    },
+    {
+      "title": "793",
+      "text": "Bagpipe Bands",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "bands"
+        },
+        {
+          "weight": "1",
+          "feature": "bagpipe"
+        }
+      ]
+    },
+    {
+      "title": "794",
+      "text": "pet therapy",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pet"
+        },
+        {
+          "weight": "1",
+          "feature": "therapy"
+        }
+      ]
+    },
+    {
+      "title": "795",
+      "text": "notable cocker spaniels",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "notable"
+        },
+        {
+          "weight": "1",
+          "feature": "spaniels"
+        },
+        {
+          "weight": "1",
+          "feature": "cocker"
+        }
+      ]
+    },
+    {
+      "title": "796",
+      "text": "Blue Grass Music Festival history",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "history"
+        },
+        {
+          "weight": "1",
+          "feature": "music"
+        },
+        {
+          "weight": "1",
+          "feature": "grass"
+        },
+        {
+          "weight": "1",
+          "feature": "blue"
+        },
+        {
+          "weight": "1",
+          "feature": "festival"
+        }
+      ]
+    },
+    {
+      "title": "797",
+      "text": "reintroduction of gray wolves",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "of"
+        },
+        {
+          "weight": "1",
+          "feature": "wolves"
+        },
+        {
+          "weight": "1",
+          "feature": "gray"
+        },
+        {
+          "weight": "1",
+          "feature": "reintroduction"
+        }
+      ]
+    },
+    {
+      "title": "798",
+      "text": "Massachusetts textile mills",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "mills"
+        },
+        {
+          "weight": "1",
+          "feature": "massachusetts"
+        },
+        {
+          "weight": "1",
+          "feature": "textile"
+        }
+      ]
+    },
+    {
+      "title": "799",
+      "text": "Animals in Alzheimer s research",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "alzheimer"
+        },
+        {
+          "weight": "1",
+          "feature": "animals"
+        },
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "research"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        }
+      ]
+    },
+    {
+      "title": "800",
+      "text": "Ovarian Cancer Treatment",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "treatment"
+        },
+        {
+          "weight": "1",
+          "feature": "ovarian"
+        },
+        {
+          "weight": "1",
+          "feature": "cancer"
+        }
+      ]
+    },
+    {
+      "title": "801",
+      "text": "Kudzu Pueraria lobata",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "lobata"
+        },
+        {
+          "weight": "1",
+          "feature": "pueraria"
+        },
+        {
+          "weight": "1",
+          "feature": "kudzu"
+        }
+      ]
+    },
+    {
+      "title": "802",
+      "text": "Volcano eruptions global temperature",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "volcano"
+        },
+        {
+          "weight": "1",
+          "feature": "eruptions"
+        },
+        {
+          "weight": "1",
+          "feature": "global"
+        },
+        {
+          "weight": "1",
+          "feature": "temperature"
+        }
+      ]
+    },
+    {
+      "title": "803",
+      "text": "May Day",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "may"
+        },
+        {
+          "weight": "1",
+          "feature": "day"
+        }
+      ]
+    },
+    {
+      "title": "804",
+      "text": "ban on human cloning ",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ban"
+        },
+        {
+          "weight": "1",
+          "feature": "cloning"
+        },
+        {
+          "weight": "1",
+          "feature": "on"
+        },
+        {
+          "weight": "1",
+          "feature": "human"
+        }
+      ]
+    },
+    {
+      "title": "805",
+      "text": "Identity Theft Passport",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "theft"
+        },
+        {
+          "weight": "1",
+          "feature": "identity"
+        },
+        {
+          "weight": "1",
+          "feature": "passport"
+        }
+      ]
+    },
+    {
+      "title": "806",
+      "text": "Doctors Without Borders",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "doctors"
+        },
+        {
+          "weight": "1",
+          "feature": "without"
+        },
+        {
+          "weight": "1",
+          "feature": "borders"
+        }
+      ]
+    },
+    {
+      "title": "807",
+      "text": "Sugar tariff rate quotas",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "quotas"
+        },
+        {
+          "weight": "1",
+          "feature": "rate"
+        },
+        {
+          "weight": "1",
+          "feature": "tariff"
+        },
+        {
+          "weight": "1",
+          "feature": "sugar"
+        }
+      ]
+    },
+    {
+      "title": "808",
+      "text": "North Korean Counterfeiting",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "north"
+        },
+        {
+          "weight": "1",
+          "feature": "counterfeiting"
+        },
+        {
+          "weight": "1",
+          "feature": "korean"
+        }
+      ]
+    },
+    {
+      "title": "809",
+      "text": "wetlands wastewater treatment ",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "wastewater"
+        },
+        {
+          "weight": "1",
+          "feature": "wetlands"
+        },
+        {
+          "weight": "1",
+          "feature": "treatment"
+        }
+      ]
+    },
+    {
+      "title": "810",
+      "text": "timeshare resales",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "resales"
+        },
+        {
+          "weight": "1",
+          "feature": "timeshare"
+        }
+      ]
+    },
+    {
+      "title": "811",
+      "text": "handwriting recognition",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "recognition"
+        },
+        {
+          "weight": "1",
+          "feature": "handwriting"
+        }
+      ]
+    },
+    {
+      "title": "812",
+      "text": "total knee replacement surgery",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "total"
+        },
+        {
+          "weight": "1",
+          "feature": "replacement"
+        },
+        {
+          "weight": "1",
+          "feature": "surgery"
+        },
+        {
+          "weight": "1",
+          "feature": "knee"
+        }
+      ]
+    },
+    {
+      "title": "813",
+      "text": "Atlantic Intracoastal Waterway",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "intracoastal"
+        },
+        {
+          "weight": "1",
+          "feature": "atlantic"
+        },
+        {
+          "weight": "1",
+          "feature": "waterway"
+        }
+      ]
+    },
+    {
+      "title": "814",
+      "text": "Johnstown flood",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "flood"
+        },
+        {
+          "weight": "1",
+          "feature": "johnstown"
+        }
+      ]
+    },
+    {
+      "title": "815",
+      "text": "Coast Guard rescues",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "guard"
+        },
+        {
+          "weight": "1",
+          "feature": "rescues"
+        },
+        {
+          "weight": "1",
+          "feature": "coast"
+        }
+      ]
+    },
+    {
+      "title": "816",
+      "text": "USAID assistance to Galapagos",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "to"
+        },
+        {
+          "weight": "1",
+          "feature": "usaid"
+        },
+        {
+          "weight": "1",
+          "feature": "assistance"
+        },
+        {
+          "weight": "1",
+          "feature": "galapagos"
+        }
+      ]
+    },
+    {
+      "title": "817",
+      "text": "sports stadium naming rights",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "naming"
+        },
+        {
+          "weight": "1",
+          "feature": "stadium"
+        },
+        {
+          "weight": "1",
+          "feature": "rights"
+        },
+        {
+          "weight": "1",
+          "feature": "sports"
+        }
+      ]
+    },
+    {
+      "title": "818",
+      "text": "Chaco Culture National Park",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "chaco"
+        },
+        {
+          "weight": "1",
+          "feature": "park"
+        },
+        {
+          "weight": "1",
+          "feature": "national"
+        },
+        {
+          "weight": "1",
+          "feature": "culture"
+        }
+      ]
+    },
+    {
+      "title": "819",
+      "text": "1890 Census",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "census"
+        },
+        {
+          "weight": "1",
+          "feature": "1890"
+        }
+      ]
+    },
+    {
+      "title": "820",
+      "text": "imported fire ants",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ants"
+        },
+        {
+          "weight": "1",
+          "feature": "fire"
+        },
+        {
+          "weight": "1",
+          "feature": "imported"
+        }
+      ]
+    },
+    {
+      "title": "821",
+      "text": "Internet work at home scams",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "work"
+        },
+        {
+          "weight": "1",
+          "feature": "home"
+        },
+        {
+          "weight": "1",
+          "feature": "at"
+        },
+        {
+          "weight": "1",
+          "feature": "internet"
+        },
+        {
+          "weight": "1",
+          "feature": "scams"
+        }
+      ]
+    },
+    {
+      "title": "822",
+      "text": "Custer s Last Stand",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "last"
+        },
+        {
+          "weight": "1",
+          "feature": "s"
+        },
+        {
+          "weight": "1",
+          "feature": "stand"
+        },
+        {
+          "weight": "1",
+          "feature": "custer"
+        }
+      ]
+    },
+    {
+      "title": "823",
+      "text": "Continuing care retirement communities",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "retirement"
+        },
+        {
+          "weight": "1",
+          "feature": "communities"
+        },
+        {
+          "weight": "1",
+          "feature": "continuing"
+        },
+        {
+          "weight": "1",
+          "feature": "care"
+        }
+      ]
+    },
+    {
+      "title": "824",
+      "text": "Civil Air Patrol",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "patrol"
+        },
+        {
+          "weight": "1",
+          "feature": "civil"
+        },
+        {
+          "weight": "1",
+          "feature": "air"
+        }
+      ]
+    },
+    {
+      "title": "825",
+      "text": "National Guard Involvement in Iraq",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "involvement"
+        },
+        {
+          "weight": "1",
+          "feature": "guard"
+        },
+        {
+          "weight": "1",
+          "feature": "national"
+        },
+        {
+          "weight": "1",
+          "feature": "iraq"
+        },
+        {
+          "weight": "1",
+          "feature": "in"
+        }
+      ]
+    },
+    {
+      "title": "826",
+      "text": "Florida Seminole Indians",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "indians"
+        },
+        {
+          "weight": "1",
+          "feature": "florida"
+        },
+        {
+          "weight": "1",
+          "feature": "seminole"
+        }
+      ]
+    },
+    {
+      "title": "827",
+      "text": "Hidden Markov Modeling HMM",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "modeling"
+        },
+        {
+          "weight": "1",
+          "feature": "hidden"
+        },
+        {
+          "weight": "1",
+          "feature": "hmm"
+        },
+        {
+          "weight": "1",
+          "feature": "markov"
+        }
+      ]
+    },
+    {
+      "title": "828",
+      "text": "secret shoppers",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "shoppers"
+        },
+        {
+          "weight": "1",
+          "feature": "secret"
+        }
+      ]
+    },
+    {
+      "title": "829",
+      "text": "Spanish Civil War support",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "support"
+        },
+        {
+          "weight": "1",
+          "feature": "spanish"
+        },
+        {
+          "weight": "1",
+          "feature": "civil"
+        },
+        {
+          "weight": "1",
+          "feature": "war"
+        }
+      ]
+    },
+    {
+      "title": "830",
+      "text": "model railroads",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "model"
+        },
+        {
+          "weight": "1",
+          "feature": "railroads"
+        }
+      ]
+    },
+    {
+      "title": "831",
+      "text": "Dulles Airport security",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "airport"
+        },
+        {
+          "weight": "1",
+          "feature": "dulles"
+        },
+        {
+          "weight": "1",
+          "feature": "security"
+        }
+      ]
+    },
+    {
+      "title": "832",
+      "text": "labor union activity",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "labor"
+        },
+        {
+          "weight": "1",
+          "feature": "union"
+        },
+        {
+          "weight": "1",
+          "feature": "activity"
+        }
+      ]
+    },
+    {
+      "title": "833",
+      "text": "Iceland government",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "iceland"
+        },
+        {
+          "weight": "1",
+          "feature": "government"
+        }
+      ]
+    },
+    {
+      "title": "834",
+      "text": "Global positioning system earthquakes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "system"
+        },
+        {
+          "weight": "1",
+          "feature": "global"
+        },
+        {
+          "weight": "1",
+          "feature": "earthquakes"
+        },
+        {
+          "weight": "1",
+          "feature": "positioning"
+        }
+      ]
+    },
+    {
+      "title": "835",
+      "text": "Big Dig pork",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pork"
+        },
+        {
+          "weight": "1",
+          "feature": "dig"
+        },
+        {
+          "weight": "1",
+          "feature": "big"
+        }
+      ]
+    },
+    {
+      "title": "836",
+      "text": "illegal immigrant wages",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "immigrant"
+        },
+        {
+          "weight": "1",
+          "feature": "illegal"
+        },
+        {
+          "weight": "1",
+          "feature": "wages"
+        }
+      ]
+    },
+    {
+      "title": "837",
+      "text": "Eskimo History",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "history"
+        },
+        {
+          "weight": "1",
+          "feature": "eskimo"
+        }
+      ]
+    },
+    {
+      "title": "838",
+      "text": "urban suburban coyotes",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "urban"
+        },
+        {
+          "weight": "1",
+          "feature": "suburban"
+        },
+        {
+          "weight": "1",
+          "feature": "coyotes"
+        }
+      ]
+    },
+    {
+      "title": "839",
+      "text": "textile dyeing techniques",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "dyeing"
+        },
+        {
+          "weight": "1",
+          "feature": "techniques"
+        },
+        {
+          "weight": "1",
+          "feature": "textile"
+        }
+      ]
+    },
+    {
+      "title": "840",
+      "text": "Geysers",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "geysers"
+        }
+      ]
+    },
+    {
+      "title": "841",
+      "text": "camel North America",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "camel"
+        },
+        {
+          "weight": "1",
+          "feature": "america"
+        },
+        {
+          "weight": "1",
+          "feature": "north"
+        }
+      ]
+    },
+    {
+      "title": "842",
+      "text": "David McCullough",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "david"
+        },
+        {
+          "weight": "1",
+          "feature": "mccullough"
+        }
+      ]
+    },
+    {
+      "title": "843",
+      "text": "Pol Pot",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "pol"
+        },
+        {
+          "weight": "1",
+          "feature": "pot"
+        }
+      ]
+    },
+    {
+      "title": "844",
+      "text": "segmental duplications",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "duplications"
+        },
+        {
+          "weight": "1",
+          "feature": "segmental"
+        }
+      ]
+    },
+    {
+      "title": "845",
+      "text": "New Jersey tomato",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "new"
+        },
+        {
+          "weight": "1",
+          "feature": "tomato"
+        },
+        {
+          "weight": "1",
+          "feature": "jersey"
+        }
+      ]
+    },
+    {
+      "title": "846",
+      "text": "heredity and obesity",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "heredity"
+        },
+        {
+          "weight": "1",
+          "feature": "obesity"
+        },
+        {
+          "weight": "1",
+          "feature": "and"
+        }
+      ]
+    },
+    {
+      "title": "847",
+      "text": "Portugal World War II",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "ii"
+        },
+        {
+          "weight": "1",
+          "feature": "portugal"
+        },
+        {
+          "weight": "1",
+          "feature": "war"
+        },
+        {
+          "weight": "1",
+          "feature": "world"
+        }
+      ]
+    },
+    {
+      "title": "848",
+      "text": "radio station call letters",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "call"
+        },
+        {
+          "weight": "1",
+          "feature": "station"
+        },
+        {
+          "weight": "1",
+          "feature": "radio"
+        },
+        {
+          "weight": "1",
+          "feature": "letters"
+        }
+      ]
+    },
+    {
+      "title": "849",
+      "text": "Scalable Vector Graphics",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "vector"
+        },
+        {
+          "weight": "1",
+          "feature": "scalable"
+        },
+        {
+          "weight": "1",
+          "feature": "graphics"
+        }
+      ]
+    },
+    {
+      "title": "850",
+      "text": "Mississippi River flood",
+      "model": [
+        {
+          "weight": "1",
+          "feature": "flood"
+        },
+        {
+          "weight": "1",
+          "feature": "river"
+        },
+        {
+          "weight": "1",
+          "feature": "mississippi"
+        }
+      ]
+    }
+  ]
+}
