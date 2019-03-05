@@ -50,7 +50,7 @@ def main():
 
     for query in queries:
         results = target_index.query(query, count=10)
-        target_rm = build_rm1(query, target_index, num_docs=10, stopper=stopper)
+        target_rm = build_rm1(target_index.query(query, count=10), target_index, stopper=stopper)
 
         # Get the query results in each expansion index
         expansion_result_sets = []
@@ -58,7 +58,7 @@ def main():
         for expansion_index in expansion_indexes:
             expansion_results = expansion_index.query(query, count=10)
             expansion_result_sets.append(set([r[0].docno for r in expansion_results]))
-            expansion_rms.append(build_rm1(query, expansion_index, num_docs=10, stopper=stopper))
+            expansion_rms.append(build_rm1(expansion_index.query(query, count=10), expansion_index, stopper=stopper))
 
         jaccard_similarities = [[] for _ in expansion_indexes]
         expansion_rm_similarities = [[] for _ in expansion_indexes]
@@ -68,6 +68,10 @@ def main():
         doc_expansion_collection_clarity = [[] for _ in expansion_indexes]
         avg_expansion_doc_clarity = [[] for _ in expansion_indexes]
 
+        # Get a list of lists:
+        #  - doc: feature_value
+        #  - expansion_index: [doc1, doc2, ...]
+        #  - feature: [expansion_index1, expansion_index2, ...]
         for doc, score in results:  # for each top doc,
             for i, expansion_index in enumerate(expansion_indexes):  # one entry per collection
                 # Convert to expandable document

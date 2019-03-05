@@ -219,16 +219,18 @@ class IndexWrapper(object):
             return 0
 
 
-def build_rm1(query, index, num_docs=20, num_terms=20, stopper=None):
+def build_rm1(initial_results, index, num_terms=20, stopper=None):
+    if stopper is None:
+        stopper = Stopper()
+
     zero_mu_scorer = DirichletTermScorer(index, mu=0)
 
     term_scores = collections.Counter()
 
-    initial_results = index.query(query, count=num_docs)
     for doc, score in initial_results:
         for term in doc.document_vector():
             if term not in stopper.stopwords:
                 term_scores[term] += zero_mu_scorer.score(term, doc) * math.exp(score) / len(initial_results)
 
     vector = {term: score for term, score in term_scores.most_common(num_terms)}
-    return Query(query.title, vector=vector)
+    return Query('rm1', vector=vector)
