@@ -1,11 +1,10 @@
 import argparse
-import collections
 import math
 import statistics
 
 import pyndri
 
-from retrieval.core import Document, IndexWrapper, build_rm1, read_queries, Stopper
+from retrieval.core import IndexWrapper, build_rm1, read_queries, Stopper
 from retrieval.scoring import clarity, DirichletTermScorer
 
 """
@@ -18,39 +17,39 @@ List of features:
 
 def main():
     options = argparse.ArgumentParser()
-    options.add_argument('run')
-    options.add_argument('index')
     options.add_argument('queries')
     options.add_argument('stoplist')
+    options.add_argument('expansion_indexes', nargs='+')
     args = options.parse_args()
 
-    index = IndexWrapper(pyndri.Index(args.index))
     queries = read_queries(args.queries)
     stopper = Stopper(file=args.stoplist)
 
-    run = collections.defaultdict(list)
-    with open(args.run) as f:
-        for line in f:
-            query, _, doc, _, score, _ = line.strip().split()
-            run[query].append((Document(index, docno=doc), float(score)))
+    for index_name in args.expansion_indexes:
+        index = IndexWrapper(pyndri.Index(index_name))
+        for query in queries:
+            query.vector = stopper.stop(query.vector)
 
-    for query in run:
-        top_results = run[query][:10]
-        query = [q for q in queries if q.title == query][0]
+            if len(query.vector) == 0:
+                continue
 
-        rm1 = build_rm1(top_results, index, stopper=stopper)
+            top_results = index.query(query, count=10)
 
-        # Features
-        rm1_clarity = clarity(rm1.vector, index)
-        weighted_ig = wig(query, index, top_results=top_results)
-        normalized_qc = nqc(query, index, top_results=top_results)
+            rm1 = build_rm1(top_results, index, stopper=stopper)
 
-        print(query.title, rm1_clarity, weighted_ig, normalized_qc, sep=',')
+            # Features
+            rm1_clarity = clarity(rm1.vector, index)
+            weighted_ig = wig(query, index, top_results=top_results)
+            normalized_qc = nqc(query, index, top_results=top_results)
+
+            print(query.title, index_name, rm1_clarity, weighted_ig, normalized_qc, sep=',')
 
 
 def wig(query, index, top_results=None):
     if top_results is None:
         top_results = index.query(query, count=10)
+    if len(top_results) == 0:
+        return 0.0
 
     dirichlet_scorer = DirichletTermScorer(index)
 
@@ -68,6 +67,8 @@ def wig(query, index, top_results=None):
 def nqc(query, index, top_results=None):
     if top_results is None:
         top_results = index.query(query, count=10)
+    if len(top_results) == 0:
+        return 0.0
 
     mu = statistics.mean([score for _, score in top_results])
     squared_diffs = [(score - mu)**2 for _, score in top_results]

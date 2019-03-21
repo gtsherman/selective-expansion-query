@@ -1,5 +1,6 @@
 .R*
 src/.idea/
 src/venv/
+test/
 __pycache__/
 .Rproj.user

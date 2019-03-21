@@ -101,14 +101,41 @@ def cosine_similarity(vector1, vector2):
     vector1_length = sum(vector1.values())
     vector2_length = sum(vector2.values())
 
-    num = 0.0
-    for term in vector1.keys() & vector2.keys():  # use intersection to avoid terms missing in either, they add nothing
-        num += vector1[term] / vector1_length * vector2[term] / vector2_length
-
-    denom1 = math.sqrt(sum([(x / vector1_length)**2 for x in vector1.values()]))
-    denom2 = math.sqrt(sum([(x / vector2_length)**2 for x in vector2.values()]))
-
     try:
+        num = 0.0
+        for term in vector1.keys() & vector2.keys():  # use intersection to avoid terms missing in either, they add nothing
+            num += vector1[term] / vector1_length * vector2[term] / vector2_length
+
+        denom1 = math.sqrt(sum([(x / vector1_length)**2 for x in vector1.values()]))
+        denom2 = math.sqrt(sum([(x / vector2_length)**2 for x in vector2.values()]))
+
         return num / (denom1 * denom2)
     except ZeroDivisionError:
         return 0.0
+
+
+def average_precision(results, rel_docs, rank_cutoff=None):
+    if len(rel_docs) == 0:
+        return 0.0
+
+    if rank_cutoff is not None:
+        results = results[:rank_cutoff]
+
+    ap = 0.0
+    rels = 0
+
+    for i, result in enumerate(results):
+        if result in rel_docs:
+            rels += 1
+            ap += rels / float(i+1)
+
+    ap /= len(rel_docs)
+    return ap
+
+
+def precision(results, rel_docs):
+    return len(results & rel_docs) / len(results)
+
+
+def recall(results, rel_docs):
+    return len(results & rel_docs) / len(rel_docs)

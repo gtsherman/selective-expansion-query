@@ -22,6 +22,18 @@ condense = function(df, df_oracle_flex) {
     rename(good = `0`, bad = `1`)
 }
 
+condense_qpp = function(df, df_oracle_flex) {
+  df %>% 
+    gather(clarity, wig, nqc,
+           key = 'metric', value = 'value') %>% 
+    merge(df_oracle_flex) %>% 
+    select(-map) %>% 
+    group_by(query, good, metric) %>% 
+    summarize(value = mean(value)) %>% 
+    spread(good, value) %>%
+    rename(good = `0`, bad = `1`)
+}
+
 # Further condense features to show only the difference between the values for
 # "good" and "bad" runs.
 difference = function(condensed) {
@@ -33,7 +45,7 @@ difference = function(condensed) {
 }
 
 # An example plot showing how these features don't differ
-difference(condense(ap, ap_oracle_flex)) %>% 
+difference(condense(ap_qpp, ap_oracle_flex)) %>% 
   ggplot(aes(x = diff)) + 
     geom_histogram(binwidth = 0.03) + 
     geom_vline(xintercept = 0.0, color = 'red') + 

@@ -87,7 +87,13 @@ class Document(object):
         return self.index.document_vector(self.doc_id)
 
     def __str__(self):
-        return '<{docno}>'.format(docno=self.docno)
+        return '<{docno}, {index}>'.format(docno=self.docno, index=str(self.index))
+
+    def __hash__(self):
+        return hash(str(self))
+
+    def __eq__(self, other):
+        return (self.docno == other.docno or self.doc_id == other.doc_id) and self.index == other.index
 
 
 class ExpandableDocument(Document):
@@ -132,6 +138,16 @@ class ExpandableDocument(Document):
         """
         return Query(self.docno, vector={term: weight for term, weight in
                                          stopper.stop(self.document_vector()).most_common(num_terms)})
+
+    def __str__(self):
+        return '<{docno}, {index}, {exp_index}>'.format(docno=self.docno, index=str(self.index), exp_index=str(
+            self.expansion_index))
+
+    def __hash__(self):
+        return hash(str(self))
+
+    def __eq__(self, other):
+        return self.docno == other.docno and self.index == other.index and self.expansion_index == other.expansion_index
 
 
 class Qrels(object):
@@ -217,6 +233,15 @@ class IndexWrapper(object):
             return self._id2df[term_id]
         except IOError:
             return 0
+
+    def __str__(self):
+        return str(self.index)
+
+    def __hash__(self):
+        return hash(str(self))
+
+    def __eq__(self, other):
+        return str(self.index) == str(other.index)
 
 
 def build_rm1(initial_results, index, num_terms=20, stopper=None):
